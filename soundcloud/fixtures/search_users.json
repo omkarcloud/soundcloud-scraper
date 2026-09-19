@@ -1,0 +1,242 @@
+{
+ "collection": [
+  {
+   "avatar_url": "https://i1.sndcdn.com/avatars-hHLBwGJEOs3JKvLr-Fzdmxg-large.jpg",
+   "city": "Medellin",
+   "comments_count": 0,
+   "country_code": "CO",
+   "created_at": null,
+   "creator_subscriptions": [
+    {
+     "product": {
+      "id": "free"
+     }
+    }
+   ],
+   "creator_subscription": {
+    "product": {
+     "id": "free"
+    }
+   },
+   "description": null,
+   "followers_count": 1321,
+   "followings_count": 0,
+   "first_name": "",
+   "full_name": "",
+   "groups_count": 0,
+   "id": 1753209651,
+   "kind": "user",
+   "last_modified": "2026-09-15T00:11:50Z",
+   "last_name": "",
+   "likes_count": 1,
+   "playlist_likes_count": 0,
+   "permalink": "maicol-ortiz-dj-07",
+   "permalink_url": "https://soundcloud.com/maicol-ortiz-dj-07",
+   "playlist_count": 0,
+   "reposts_count": null,
+   "track_count": 1,
+   "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1753209651",
+   "urn": "soundcloud:users:1753209651",
+   "username": "Maicol Ortiz DJ 07",
+   "verified": false,
+   "visuals": {
+    "urn": "soundcloud:users:1753209651",
+    "enabled": true,
+    "visuals": [
+     {
+      "urn": "soundcloud:visuals:274705995",
+      "entry_time": 0,
+      "visual_url": "https://i1.sndcdn.com/visuals-0JHzXrnHoB9r0VVd-Vhs8Fw-original.jpg"
+     }
+    ],
+    "tracking": null
+   },
+   "badges": {
+    "pro": false,
+    "creator_mid_tier": false,
+    "pro_unlimited": false,
+    "verified": false
+   },
+   "station_urn": "soundcloud:system-playlists:artist-stations:1753209651",
+   "station_permalink": "artist-stations:1753209651",
+   "date_of_birth": null
+  },
+  {
+   "avatar_url": "https://i1.sndcdn.com/avatars-Cak5JorzwXfrXXm6-gH6Fkg-large.jpg",
+   "city": "Hồ Chí Minh",
+   "comments_count": 0,
+   "country_code": null,
+   "created_at": null,
+   "creator_subscriptions": [
+    {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    }
+   ],
+   "creator_subscription": {
+    "product": {
+     "id": "creator-pro-unlimited"
+    }
+   },
+   "description": "Funny boy",
+   "followers_count": 574034,
+   "followings_count": 1463,
+   "first_name": "DJ",
+   "full_name": "DJ TiLo",
+   "groups_count": 0,
+   "id": 145920957,
+   "kind": "user",
+   "last_modified": "2026-05-27T02:37:02Z",
+   "last_name": "TiLo",
+   "likes_count": 779,
+   "playlist_likes_count": 3,
+   "permalink": "dj-tin-5",
+   "permalink_url": "https://soundcloud.com/dj-tin-5",
+   "playlist_count": 2,
+   "reposts_count": null,
+   "track_count": 238,
+   "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A145920957",
+   "urn": "soundcloud:users:145920957",
+   "username": "DJ TiLo",
+   "verified": true,
+   "visuals": {
+    "urn": "soundcloud:users:145920957",
+    "enabled": true,
+    "visuals": [
+     {
+      "urn": "soundcloud:visuals:28237268",
+      "entry_time": 0,
+      "visual_url": "https://i1.sndcdn.com/visuals-000145920957-CkKhHx-original.jpg"
+     }
+    ],
+    "tracking": null
+   },
+   "badges": {
+    "pro": false,
+    "creator_mid_tier": false,
+    "pro_unlimited": true,
+    "verified": true
+   },
+   "station_urn": "soundcloud:system-playlists:artist-stations:145920957",
+   "station_permalink": "artist-stations:145920957",
+   "date_of_birth": null
+  },
+  {
+   "avatar_url": "https://i1.sndcdn.com/avatars-DKqJ8IECZW3t6Xc5-0lIFIQ-large.jpg",
+   "city": "Bogota",
+   "comments_count": 0,
+   "country_code": "CO",
+   "created_at": null,
+   "creator_subscriptions": [
+    {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    }
+   ],
+   "creator_subscription": {
+    "product": {
+     "id": "creator-pro-unlimited"
+    }
+   },
+   "description": "#SiempreAlMejorEstilo\nInstagram: estebanmartinezdj\nContrataciones 📲 (+57) 3012275018 ❕\n(Tribal - Regueton Old School - Tribal House) 🔥\nBogotá - Colombia 🇨🇴\nEscucha Mi Nuevo Set👇🏻",
+   "followers_count": 20596,
+   "followings_count": 7,
+   "first_name": "Esteban",
+   "full_name": "Esteban Martinez",
+   "groups_count": 0,
+   "id": 755583961,
+   "kind": "user",
+   "last_modified": "2026-07-02T11:32:52Z",
+   "last_name": "Martinez",
+   "likes_count": 214,
+   "playlist_likes_count": 5,
+   "permalink": "dj-esteban-martinez-111",
+   "permalink_url": "https://soundcloud.com/dj-esteban-martinez-111",
+   "playlist_count": 0,
+   "reposts_count": null,
+   "track_count": 6,
+   "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A755583961",
+   "urn": "soundcloud:users:755583961",
+   "username": "Esteban Martinez Dj",
+   "verified": false,
+   "visuals": {
+    "urn": "soundcloud:users:755583961",
+    "enabled": true,
+    "visuals": [
+     {
+      "urn": "soundcloud:visuals:256460412",
+      "entry_time": 0,
+      "visual_url": "https://i1.sndcdn.com/visuals-jCUwIBByRQJPALFL-0jvkrA-original.jpg"
+     }
+    ],
+    "tracking": null
+   },
+   "badges": {
+    "pro": false,
+    "creator_mid_tier": false,
+    "pro_unlimited": true,
+    "verified": false
+   },
+   "station_urn": "soundcloud:system-playlists:artist-stations:755583961",
+   "station_permalink": "artist-stations:755583961",
+   "date_of_birth": null
+  }
+ ],
+ "total_results": 1881673,
+ "facets": [
+  {
+   "name": "place",
+   "facets": [
+    {
+     "value": "los angeles",
+     "count": 6349,
+     "filter": "filter.place=los+angeles"
+    },
+    {
+     "value": "lima",
+     "count": 8460,
+     "filter": "filter.place=lima"
+    },
+    {
+     "value": "chicago",
+     "count": 4962,
+     "filter": "filter.place=chicago"
+    },
+    {
+     "value": "medellin",
+     "count": 9372,
+     "filter": "filter.place=medellin"
+    },
+    {
+     "value": "sao paulo",
+     "count": 7254,
+     "filter": "filter.place=sao+paulo"
+    },
+    {
+     "value": "bogota",
+     "count": 4940,
+     "filter": "filter.place=bogota"
+    },
+    {
+     "value": "new york",
+     "count": 7246,
+     "filter": "filter.place=new+york"
+    },
+    {
+     "value": "rio de janeiro",
+     "count": 7378,
+     "filter": "filter.place=rio+de+janeiro"
+    },
+    {
+     "value": "london",
+     "count": 10333,
+     "filter": "filter.place=london"
+    }
+   ]
+  }
+ ],
+ "next_href": "https://api-v2.soundcloud.com/search/users?query_urn=soundcloud%3Asearch%3A2cca081eab42428782a3c1404dd51bb7&facet=place&limit=3&offset=3&q=dj",
+ "query_urn": "soundcloud:search:2cca081eab42428782a3c1404dd51bb7"
+}

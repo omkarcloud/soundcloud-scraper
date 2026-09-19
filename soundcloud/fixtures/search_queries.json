@@ -1,0 +1,42 @@
+{
+ "collection": [
+  {
+   "output": "marshmello",
+   "query": "marshmello"
+  },
+  {
+   "output": "marshmello alone",
+   "query": "marshmello alone"
+  },
+  {
+   "output": "marsh set",
+   "query": "marsh set"
+  },
+  {
+   "output": "marshmallow",
+   "query": "marshmallow"
+  },
+  {
+   "output": "mashooqa cocktail 2",
+   "query": "mashooqa cocktail 2"
+  },
+  {
+   "output": "mashup 2026",
+   "query": "mashup 2026"
+  },
+  {
+   "output": "mashup",
+   "query": "mashup"
+  },
+  {
+   "output": "darshan hustinder",
+   "query": "darshan hustinder"
+  },
+  {
+   "output": "darshan raval",
+   "query": "darshan raval"
+  }
+ ],
+ "next_href": null,
+ "query_urn": "soundcloud:search-autocomplete:29b47798d5ff4570b9e161f54af32d3b"
+}

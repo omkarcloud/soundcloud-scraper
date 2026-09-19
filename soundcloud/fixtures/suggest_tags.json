@@ -1,0 +1,50 @@
+{
+ "txid": "22b307ae364042d5a90eaa13a07b4364",
+ "query": "lo",
+ "limit": 10,
+ "query_time_in_millis": 0.031168999150395393,
+ "suggestions": [
+  {
+   "query": "<b>lo</b>op",
+   "score": 0,
+   "kind": "tag",
+   "id": "Loop"
+  },
+  {
+   "query": "<b>lo</b>st",
+   "score": 0,
+   "kind": "tag",
+   "id": "Lost"
+  },
+  {
+   "query": "<b>lo</b>ve",
+   "score": 0,
+   "kind": "tag",
+   "id": "Love"
+  },
+  {
+   "query": "<b>lo</b>-fi",
+   "score": 0,
+   "kind": "tag",
+   "id": "Lo-Fi"
+  },
+  {
+   "query": "<b>lo</b>gic",
+   "score": 0,
+   "kind": "tag",
+   "id": "Logic"
+  },
+  {
+   "query": "<b>lo</b>ndon",
+   "score": 0,
+   "kind": "tag",
+   "id": "London"
+  },
+  {
+   "query": "<b>lo</b>unge",
+   "score": 0,
+   "kind": "tag",
+   "id": "Lounge"
+  }
+ ]
+}

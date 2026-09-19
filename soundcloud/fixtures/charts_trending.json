@@ -1,0 +1,424 @@
+{
+ "genre": "soundcloud:genres:all-music",
+ "kind": "trending",
+ "last_updated": "2026-09-18T12:31:45Z",
+ "collection": [
+  {
+   "track": {
+    "artwork_url": "https://i1.sndcdn.com/artworks-u1gp4QgUsrA1-0-large.jpg",
+    "caption": null,
+    "commentable": true,
+    "comment_count": 922,
+    "created_at": "2026-05-14T02:26:46Z",
+    "description": "",
+    "downloadable": false,
+    "download_count": 0,
+    "duration": 30000,
+    "full_duration": 170322,
+    "embeddable_by": "all",
+    "genre": "Hip Hop/Rap",
+    "has_downloads_left": false,
+    "id": 2320209185,
+    "kind": "track",
+    "label_name": "Surf7",
+    "last_modified": "2026-08-14T19:39:16Z",
+    "license": "all-rights-reserved",
+    "likes_count": 44712,
+    "permalink": "surf7-goose-coat",
+    "permalink_url": "https://soundcloud.com/user-10135919/surf7-goose-coat",
+    "playback_count": 2022298,
+    "public": true,
+    "publisher_metadata": {
+     "id": 2320209185,
+     "urn": "soundcloud:tracks:2320209185",
+     "artist": "Surf7",
+     "album_title": "GOOSE COAT",
+     "contains_music": true,
+     "upc_or_ean": "199384431040",
+     "isrc": "QZAKB2567875",
+     "explicit": true,
+     "p_line": "℗ 2026 Surf7",
+     "p_line_for_display": "℗ 2026 Surf7",
+     "c_line": "© 2026 Surf7",
+     "c_line_for_display": "© 2026 Surf7",
+     "release_title": "GOOSE COAT"
+    },
+    "purchase_title": null,
+    "purchase_url": null,
+    "release_date": "2026-06-04T00:00:00Z",
+    "reposts_count": 276,
+    "secret_token": null,
+    "sharing": "public",
+    "state": "finished",
+    "streamable": true,
+    "tag_list": "",
+    "title": "GOOSE COAT",
+    "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2320209185",
+    "urn": "soundcloud:tracks:2320209185",
+    "user_id": 335549515,
+    "visuals": null,
+    "waveform_url": "https://wave.sndcdn.com/clCTeRQUE5FC_m.json",
+    "display_date": "2026-06-04T00:00:00Z",
+    "media": {
+     "transcodings": [
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2320209185/82326b90-b3d7-4871-8aea-e529342939ac/preview/hls",
+       "preset": "mp3_1_0",
+       "duration": 30000,
+       "snipped": true,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2320209185/82326b90-b3d7-4871-8aea-e529342939ac/preview/progressive",
+       "preset": "mp3_1_0",
+       "duration": 30000,
+       "snipped": true,
+       "format": {
+        "protocol": "progressive",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      }
+     ]
+    },
+    "station_urn": "soundcloud:system-playlists:track-stations:2320209185",
+    "station_permalink": "track-stations:2320209185",
+    "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjU3NjVmZDllLTU1ZWQtNDEzNi1iNzFlLThkMjQ5MjE1ODM3NCIsImlhdCI6MTc4OTgxMTIyMX0.u9hW_LN4qWY3jYvcjJIujTPaVDA-SVJAqZG8_NhRlzY",
+    "monetization_model": "NOT_APPLICABLE",
+    "policy": "SNIP",
+    "user": {
+     "avatar_url": "https://i1.sndcdn.com/avatars-ZQ2a8rG0kF0PuirV-buivfA-large.jpg",
+     "first_name": "",
+     "followers_count": 3654,
+     "full_name": "",
+     "id": 335549515,
+     "kind": "user",
+     "last_modified": "2026-09-09T22:22:02Z",
+     "last_name": "",
+     "permalink": "user-10135919",
+     "permalink_url": "https://soundcloud.com/user-10135919",
+     "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A335549515",
+     "urn": "soundcloud:users:335549515",
+     "username": "Surf7",
+     "verified": true,
+     "city": "",
+     "country_code": null,
+     "badges": {
+      "pro": false,
+      "creator_mid_tier": false,
+      "pro_unlimited": true,
+      "verified": true
+     },
+     "station_urn": "soundcloud:system-playlists:artist-stations:335549515",
+     "station_permalink": "artist-stations:335549515"
+    }
+   },
+   "score": 0.8009821533833722
+  },
+  {
+   "track": {
+    "artwork_url": "https://i1.sndcdn.com/artworks-WsYtLwyiKwKqccWX-PK28Mg-large.png",
+    "caption": "EAZYBAKED 🤝 Richard Finger",
+    "commentable": true,
+    "comment_count": 449,
+    "created_at": "2026-06-09T18:33:44Z",
+    "description": "WE MADE A SONG WITH @richardfinger",
+    "downloadable": false,
+    "download_count": 0,
+    "duration": 222903,
+    "full_duration": 222857,
+    "embeddable_by": "all",
+    "genre": "Electronic",
+    "has_downloads_left": false,
+    "id": 2336237564,
+    "kind": "track",
+    "label_name": "The Bakers Club / Richard Finger",
+    "last_modified": "2026-06-09T19:11:20Z",
+    "license": "all-rights-reserved",
+    "likes_count": 16690,
+    "permalink": "eazy-mf-finger-1",
+    "permalink_url": "https://soundcloud.com/eazybakedbeats/eazy-mf-finger-1",
+    "playback_count": 360257,
+    "public": true,
+    "publisher_metadata": {
+     "id": 2336237564,
+     "urn": "soundcloud:tracks:2336237564",
+     "artist": "EAZYBAKED, Richard Finger",
+     "contains_music": true,
+     "isrc": "GBWUL2630569",
+     "explicit": true,
+     "p_line": "The Bakers Club / Richard Finger",
+     "p_line_for_display": "℗ The Bakers Club / Richard Finger",
+     "release_title": "EAZY MF FINGER"
+    },
+    "purchase_title": "Download",
+    "purchase_url": "https://eazybaked.bandcamp.com/track/eazy-mf-finger-w-richard-finger",
+    "release_date": "2026-06-08T00:00:00Z",
+    "reposts_count": 527,
+    "secret_token": null,
+    "sharing": "public",
+    "state": "finished",
+    "streamable": true,
+    "tag_list": "EAZY MF FINGER bass Dubstep",
+    "title": "EAZY MF FINGER w/ Richard Finger",
+    "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2336237564",
+    "urn": "soundcloud:tracks:2336237564",
+    "user_id": 75385357,
+    "visuals": null,
+    "waveform_url": "https://wave.sndcdn.com/vUlcSAJNWsyy_m.json",
+    "display_date": "2026-06-09T19:11:20Z",
+    "media": {
+     "transcodings": [
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2336237564/1bc3ef20-e142-4add-8fee-369532d6f402/stream/hls",
+       "preset": "aac_160k",
+       "duration": 222903,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2336237564/0b36a21b-7d5f-4386-ac90-a40fc892d579/stream/hls",
+       "preset": "aac_96k",
+       "duration": 222903,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "lq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2336237564/689a23bb-1e00-4564-b787-09ee5c73bf46/stream/hls",
+       "preset": "abr_sq",
+       "duration": 222903,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpegurl"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2336237564/b1518718-0fd2-43a4-bfa5-ea52749f9ee1/stream/hls",
+       "preset": "mp3_1_0",
+       "duration": 222857,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2336237564/b1518718-0fd2-43a4-bfa5-ea52749f9ee1/stream/progressive",
+       "preset": "mp3_1_0",
+       "duration": 222857,
+       "snipped": false,
+       "format": {
+        "protocol": "progressive",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      }
+     ]
+    },
+    "station_urn": "soundcloud:system-playlists:track-stations:2336237564",
+    "station_permalink": "track-stations:2336237564",
+    "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjdkMGJlNTIwLTgyODEtNDJmMC04NTYwLTE3MWY1NWY3ODg1NSIsImlhdCI6MTc4OTgxMTIyMX0.r8U2ZVytsmuPadLz0Q8iOhdGmor_Fl-7wEdpUxdeLvI",
+    "monetization_model": "NOT_APPLICABLE",
+    "policy": "ALLOW",
+    "user": {
+     "avatar_url": "https://i1.sndcdn.com/avatars-KwhhGQqVOB6H8jKG-PtD4jQ-large.jpg",
+     "first_name": "",
+     "followers_count": 55991,
+     "full_name": "",
+     "id": 75385357,
+     "kind": "user",
+     "last_modified": "2026-08-05T20:58:22Z",
+     "last_name": "",
+     "permalink": "eazybakedbeats",
+     "permalink_url": "https://soundcloud.com/eazybakedbeats",
+     "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A75385357",
+     "urn": "soundcloud:users:75385357",
+     "username": "EAZYBAKED",
+     "verified": true,
+     "city": "Ƽth Ðimensiðn",
+     "country_code": null,
+     "badges": {
+      "pro": false,
+      "creator_mid_tier": false,
+      "pro_unlimited": true,
+      "verified": true
+     },
+     "station_urn": "soundcloud:system-playlists:artist-stations:75385357",
+     "station_permalink": "artist-stations:75385357"
+    }
+   },
+   "score": 0.7112417497472502
+  },
+  {
+   "track": {
+    "artwork_url": "https://i1.sndcdn.com/artworks-xf4z5cZTdexkuWqb-mgXAzw-large.jpg",
+    "caption": null,
+    "commentable": true,
+    "comment_count": 277,
+    "created_at": "2026-02-27T00:11:57Z",
+    "description": "",
+    "downloadable": false,
+    "download_count": 4,
+    "duration": 331921,
+    "full_duration": 331912,
+    "embeddable_by": "me",
+    "genre": "",
+    "has_downloads_left": false,
+    "id": 2274228401,
+    "kind": "track",
+    "label_name": "",
+    "last_modified": "2026-03-19T22:14:38Z",
+    "license": "all-rights-reserved",
+    "likes_count": 12410,
+    "permalink": "nafe-smallz-know-me-better",
+    "permalink_url": "https://soundcloud.com/user-673759314/nafe-smallz-know-me-better",
+    "playback_count": 542567,
+    "public": true,
+    "publisher_metadata": {
+     "id": 2274228401,
+     "urn": "soundcloud:tracks:2274228401",
+     "publisher": "",
+     "explicit": false,
+     "p_line": "℗ ",
+     "p_line_for_display": "℗ "
+    },
+    "purchase_title": "FREE DL",
+    "purchase_url": "https://hypeddit.com/loucasgroove/nafesmallzknowmebetterloucasgrooveeditfreedl",
+    "release_date": null,
+    "reposts_count": 538,
+    "secret_token": null,
+    "sharing": "public",
+    "state": "finished",
+    "streamable": true,
+    "tag_list": "",
+    "title": "Nafe Smallz - Know me better (Louca's Groove Edit)  [FREE DL]",
+    "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2274228401",
+    "urn": "soundcloud:tracks:2274228401",
+    "user_id": 1043284588,
+    "visuals": null,
+    "waveform_url": "https://wave.sndcdn.com/TCcviG1TlQOr_m.json",
+    "display_date": "2026-03-19T21:26:59Z",
+    "media": {
+     "transcodings": [
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2274228401/4b2820f4-96d3-444f-b3c1-062a02a4495b/stream/hls",
+       "preset": "aac_160k",
+       "duration": 331921,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2274228401/e6683e56-84ee-4fcd-8eb9-9357adb77029/stream/hls",
+       "preset": "aac_96k",
+       "duration": 331921,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "lq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2274228401/06526cad-aa8c-4172-ae4d-782a5f829d2e/stream/hls",
+       "preset": "abr_sq",
+       "duration": 331921,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpegurl"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2274228401/b4399588-d327-4b9a-8f31-8b7889797d75/stream/hls",
+       "preset": "mp3_1_0",
+       "duration": 331912,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2274228401/b4399588-d327-4b9a-8f31-8b7889797d75/stream/progressive",
+       "preset": "mp3_1_0",
+       "duration": 331912,
+       "snipped": false,
+       "format": {
+        "protocol": "progressive",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      }
+     ]
+    },
+    "station_urn": "soundcloud:system-playlists:track-stations:2274228401",
+    "station_permalink": "track-stations:2274228401",
+    "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjBiYjBlZTE1LTE2YzItNDU4NS04MjI3LWUwZjZkMTcwOTU3ZSIsImlhdCI6MTc4OTgxMTIyMX0.temAM6PFL6b7GQePhwAMUqmurpzMOTz2GbZUL45io3U",
+    "monetization_model": "NOT_APPLICABLE",
+    "policy": "ALLOW",
+    "user": {
+     "avatar_url": "https://i1.sndcdn.com/avatars-XvuiyA5Emrlityky-emvg6w-large.jpg",
+     "first_name": "Cam",
+     "followers_count": 4494,
+     "full_name": "Cam Louca",
+     "id": 1043284588,
+     "kind": "user",
+     "last_modified": "2026-02-06T10:55:59Z",
+     "last_name": "Louca",
+     "permalink": "user-673759314",
+     "permalink_url": "https://soundcloud.com/user-673759314",
+     "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1043284588",
+     "urn": "soundcloud:users:1043284588",
+     "username": "Louca's Groove",
+     "verified": false,
+     "city": "Birmingham",
+     "country_code": null,
+     "badges": {
+      "pro": false,
+      "creator_mid_tier": false,
+      "pro_unlimited": true,
+      "verified": false
+     },
+     "station_urn": "soundcloud:system-playlists:artist-stations:1043284588",
+     "station_permalink": "artist-stations:1043284588"
+    }
+   },
+   "score": 0.7080053692302195
+  }
+ ],
+ "query_urn": "soundcloud:charts:176e7ed7fc9f4dff89038644099a2ab4",
+ "next_href": "https://api-v2.soundcloud.com/charts?genre=soundcloud%3Agenres%3Aall-music&query_urn=soundcloud%3Acharts%3A176e7ed7fc9f4dff89038644099a2ab4&offset=3&kind=trending&limit=3"
+}

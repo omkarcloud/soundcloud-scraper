@@ -1,0 +1,1185 @@
+{
+ "collection": [
+  {
+   "avatar_url": "https://i1.sndcdn.com/avatars-8q95JTTh1zaZOYV1-FOyy4w-large.jpg",
+   "city": "in these streets",
+   "comments_count": 0,
+   "country_code": null,
+   "created_at": null,
+   "creator_subscriptions": [
+    {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    }
+   ],
+   "creator_subscription": {
+    "product": {
+     "id": "creator-pro-unlimited"
+    }
+   },
+   "description": "Management: Moe Shalizi\nMoe@TheShaliziGroup.com\n\nBookings: \nshunt@teamwass.com\nmdiamond@teamwass.com\nsgoodgold@teamwass.com\nEurope:\nobi.asika@unitedtalent.com\n\n♬ @joytimecollective",
+   "followers_count": 1464955,
+   "followings_count": 17,
+   "first_name": "",
+   "full_name": "",
+   "groups_count": 0,
+   "id": 110031956,
+   "kind": "user",
+   "last_modified": "2026-09-09T04:03:10Z",
+   "last_name": "",
+   "likes_count": 32,
+   "playlist_likes_count": 11,
+   "permalink": "marshmellomusic",
+   "permalink_url": "https://soundcloud.com/marshmellomusic",
+   "playlist_count": 37,
+   "reposts_count": null,
+   "track_count": 284,
+   "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A110031956",
+   "urn": "soundcloud:users:110031956",
+   "username": "marshmello",
+   "verified": true,
+   "visuals": {
+    "urn": "soundcloud:users:110031956",
+    "enabled": true,
+    "visuals": [
+     {
+      "urn": "soundcloud:visuals:274291569",
+      "entry_time": 0,
+      "visual_url": "https://i1.sndcdn.com/visuals-000110031956-B4umn5-original.jpg"
+     }
+    ],
+    "tracking": null
+   },
+   "badges": {
+    "pro": false,
+    "creator_mid_tier": false,
+    "pro_unlimited": true,
+    "verified": true
+   },
+   "station_urn": "soundcloud:system-playlists:artist-stations:110031956",
+   "station_permalink": "artist-stations:110031956",
+   "date_of_birth": null
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-D08tyEx3IVe2lrPm-J619hA-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 71,
+   "created_at": "2026-08-04T17:28:52Z",
+   "description": "Marshmello x Viperactive - How I Feel\nStream/Download: https://marshmello.ffm.to/HowIFeel\n\nMARSHMELLO:\nMerch | https://www.marshmellomusic.com/collections/new-arrivals\nSpotify | http://spoti.fi/Marshmello\nApple Music | http://apple.co/2n8Evz6\nSoundCloud | http://soundcloud.com/marshmellomusic\nInstagram | http://instagram.com/marshmello\nFacebook | http://facebook.com/marshmello\nTwitter | http://twitter.com/marshmello\nTwitch | http://twitch.tv/marshmellomusic\nTikTok | https://tiktok.com/@marshmello\nDiscord | https://discord.gg/marshmello\n\nVIPERACTIVE:\nInstagram | https://www.instagram.com/viperactive\nTwitter | https://x.com/viperactive\nFacebook | https://www.facebook.com/viperactive/\nYouTube | https://www.youtube.com/@viperactive\nSoundCloud | @viperactive\nTikTok | https://www.tiktok.com/@viperactive",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 157760,
+   "full_duration": 157714,
+   "embeddable_by": "all",
+   "genre": "Dance & EDM",
+   "has_downloads_left": false,
+   "id": 2374986161,
+   "kind": "track",
+   "label_name": "Joytime Collective",
+   "last_modified": "2026-08-13T16:50:31Z",
+   "license": "all-rights-reserved",
+   "likes_count": 1855,
+   "permalink": "how-i-feel",
+   "permalink_url": "https://soundcloud.com/marshmellomusic/how-i-feel",
+   "playback_count": 43282,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2374986161,
+    "urn": "soundcloud:tracks:2374986161",
+    "artist": "Marshmello, Viperactive",
+    "contains_music": true,
+    "publisher": "Marshmello Music (BMI)",
+    "isrc": "QZTGW2605152",
+    "explicit": false,
+    "p_line": "2026 Joytime Collective",
+    "p_line_for_display": "℗ 2026 Joytime Collective"
+   },
+   "purchase_title": "Add To Playlist",
+   "purchase_url": "https://marshmello.ffm.to/howifeel",
+   "release_date": "2026-08-03T00:00:00Z",
+   "reposts_count": 101,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Marshmello x Viperactive - How I Feel",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2374986161",
+   "urn": "soundcloud:tracks:2374986161",
+   "user_id": 110031956,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/efVHlA1YUt2P_m.json",
+   "display_date": "2026-08-07T04:01:45Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2374986161/e2f47cf4-9f98-46e8-b95e-abc7b88b7c50/stream/hls",
+      "preset": "aac_160k",
+      "duration": 157760,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2374986161/876ffc65-296e-400c-934d-e36f09077a26/stream/hls",
+      "preset": "aac_96k",
+      "duration": 157760,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2374986161/27524906-4052-4d7f-ba91-955997bf6b41/stream/hls",
+      "preset": "abr_sq",
+      "duration": 157760,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2374986161/a20076e9-0300-4c0b-a24c-9217a701249c/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 157714,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2374986161/a20076e9-0300-4c0b-a24c-9217a701249c/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 157714,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2374986161",
+   "station_permalink": "track-stations:2374986161",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjAxNDdhM2E5LTRmMDYtNDk0NC05NDk3LWE3ZjVlOWM0ZGFmNyIsImlhdCI6MTc4OTgxMTIxM30.c7Plqm5lpDq1Qm0w971OK60LjEgB5hhaXm5Hz-6UFJw",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-8q95JTTh1zaZOYV1-FOyy4w-large.jpg",
+    "city": "in these streets",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "Management: Moe Shalizi\nMoe@TheShaliziGroup.com\n\nBookings: \nshunt@teamwass.com\nmdiamond@teamwass.com\nsgoodgold@teamwass.com\nEurope:\nobi.asika@unitedtalent.com\n\n♬ @joytimecollective",
+    "followers_count": 1464955,
+    "followings_count": 17,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 110031956,
+    "kind": "user",
+    "last_modified": "2026-09-09T04:03:10Z",
+    "last_name": "",
+    "likes_count": 32,
+    "playlist_likes_count": 11,
+    "permalink": "marshmellomusic",
+    "permalink_url": "https://soundcloud.com/marshmellomusic",
+    "playlist_count": 37,
+    "reposts_count": null,
+    "track_count": 284,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A110031956",
+    "urn": "soundcloud:users:110031956",
+    "username": "marshmello",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:110031956",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:274291569",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-000110031956-B4umn5-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:110031956",
+    "station_permalink": "artist-stations:110031956",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-000237833145-nm7ay0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 10924,
+   "created_at": "2017-08-11T04:14:54Z",
+   "description": "To Download or Stream “Silence” feat. Khalid:\n http://smarturl.it/mSilence\n \nFollow Marshmello at:\nwww.facebook.com/marshmellomusic\nwww.twitter.com/marshmellomusic\nwww.instagram.com/marshmellomusic\nwww.soundcloud.com/marshmellomusic\nwww.youtube.com/marshmellomusic\n \nFollow Khalid at:\nOfficial Website: http://www.khalidofficial.com\nFacebook: https://www.facebook.com/thegreatkhalid \nTwitter: https://twitter.com/thegreatkhalid \nInstagram: https://www.instagram.com/thegr8khalid",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 180869,
+   "full_duration": 180913,
+   "embeddable_by": "all",
+   "genre": "Dance & EDM",
+   "has_downloads_left": false,
+   "id": 337396175,
+   "kind": "track",
+   "label_name": "Joytime Collective",
+   "last_modified": "2022-07-12T22:39:17Z",
+   "license": "all-rights-reserved",
+   "likes_count": 1028347,
+   "permalink": "silence",
+   "permalink_url": "https://soundcloud.com/marshmellomusic/silence",
+   "playback_count": 76814081,
+   "public": true,
+   "publisher_metadata": {
+    "id": 337396175,
+    "urn": "soundcloud:tracks:337396175",
+    "artist": "Marshmello",
+    "album_title": "",
+    "publisher": "",
+    "iswc": "",
+    "upc_or_ean": "",
+    "isrc": "USRC11701901",
+    "p_line": "",
+    "p_line_for_display": "℗ ",
+    "writer_composer": "",
+    "release_title": "Silence"
+   },
+   "purchase_title": "Download",
+   "purchase_url": "http://smarturl.it/mSilence",
+   "release_date": null,
+   "reposts_count": 44203,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "marshmello khalid location silence",
+   "title": "Marshmello - Silence Ft. Khalid",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A337396175",
+   "urn": "soundcloud:tracks:337396175",
+   "user_id": 110031956,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/zEqD9Dfw5vg4_m.json",
+   "display_date": "2017-08-11T04:15:12Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:337396175/b5512500-71f2-424c-a33b-d5acfe334ccb/stream/hls",
+      "preset": "aac_160k",
+      "duration": 180869,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:337396175/49214ffa-86b8-4f62-a825-1b41f91542eb/stream/hls",
+      "preset": "aac_96k",
+      "duration": 180869,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:337396175/de626c65-3147-4051-add9-9aba0a76b8ba/stream/hls",
+      "preset": "abr_sq",
+      "duration": 180869,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:337396175/4f78fce3-dfe5-48c6-9d4f-187c652524fd/stream/hls",
+      "preset": "mp3_0_0",
+      "duration": 180913,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:337396175/4f78fce3-dfe5-48c6-9d4f-187c652524fd/stream/progressive",
+      "preset": "mp3_0_0",
+      "duration": 180913,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:337396175",
+   "station_permalink": "track-stations:337396175",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6Ijk1NTg1OWZmLTgxN2QtNDNkYy1iOGQwLTc3OTdlNjlmNjBjMyIsImlhdCI6MTc4OTgxMTIxM30.15N0pz_585LQQ1BbFymLh_IPLmQG6q01YVHOlVWs10Y",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-8q95JTTh1zaZOYV1-FOyy4w-large.jpg",
+    "city": "in these streets",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "Management: Moe Shalizi\nMoe@TheShaliziGroup.com\n\nBookings: \nshunt@teamwass.com\nmdiamond@teamwass.com\nsgoodgold@teamwass.com\nEurope:\nobi.asika@unitedtalent.com\n\n♬ @joytimecollective",
+    "followers_count": 1464955,
+    "followings_count": 17,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 110031956,
+    "kind": "user",
+    "last_modified": "2026-09-09T04:03:10Z",
+    "last_name": "",
+    "likes_count": 32,
+    "playlist_likes_count": 11,
+    "permalink": "marshmellomusic",
+    "permalink_url": "https://soundcloud.com/marshmellomusic",
+    "playlist_count": 37,
+    "reposts_count": null,
+    "track_count": 284,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A110031956",
+    "urn": "soundcloud:users:110031956",
+    "username": "marshmello",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:110031956",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:274291569",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-000110031956-B4umn5-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:110031956",
+    "station_permalink": "artist-stations:110031956",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-NHdF4aTeRhzf-0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 12358,
+   "created_at": "2018-02-08T20:28:25Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 201779,
+   "full_duration": 201770,
+   "embeddable_by": "all",
+   "genre": "Dance",
+   "has_downloads_left": false,
+   "id": 396530439,
+   "kind": "track",
+   "label_name": "Joytime Collective",
+   "last_modified": "2026-06-24T05:48:50Z",
+   "license": "all-rights-reserved",
+   "likes_count": 685797,
+   "permalink": "friends",
+   "permalink_url": "https://soundcloud.com/marshmellomusic/friends",
+   "playback_count": 46983977,
+   "public": true,
+   "publisher_metadata": {
+    "id": 396530439,
+    "urn": "soundcloud:tracks:396530439",
+    "artist": "Marshmello, Anne-Marie",
+    "album_title": "FRIENDS",
+    "contains_music": true,
+    "upc_or_ean": "190295678197",
+    "isrc": "GBAHS1800025",
+    "explicit": true,
+    "p_line": "2018 Joytime Collective",
+    "p_line_for_display": "℗ 2018 Joytime Collective",
+    "c_line": "2018 Joytime Collective",
+    "c_line_for_display": "© 2018 Joytime Collective",
+    "release_title": "FRIENDS"
+   },
+   "purchase_title": "Download",
+   "purchase_url": "http://au.gt/friends",
+   "release_date": "2018-02-09T00:00:00Z",
+   "reposts_count": 21525,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "\"Dance / Pop\"",
+   "title": "FRIENDS",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A396530439",
+   "urn": "soundcloud:tracks:396530439",
+   "user_id": 110031956,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/08xSS98sCki1_m.json",
+   "display_date": "2018-02-09T00:00:00Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/091ccf4a-6d54-4742-8554-f32f2f0fd000/stream/cbc-encrypted-hls",
+      "preset": "aac_160k",
+      "duration": 201779,
+      "snipped": false,
+      "format": {
+       "protocol": "cbc-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/091ccf4a-6d54-4742-8554-f32f2f0fd000/stream/ctr-encrypted-hls",
+      "preset": "aac_160k",
+      "duration": 201779,
+      "snipped": false,
+      "format": {
+       "protocol": "ctr-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/630eab6f-a7ec-4ab7-90d1-55f9700493d4/stream/cbc-encrypted-hls",
+      "preset": "aac_96k",
+      "duration": 201779,
+      "snipped": false,
+      "format": {
+       "protocol": "cbc-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/630eab6f-a7ec-4ab7-90d1-55f9700493d4/stream/ctr-encrypted-hls",
+      "preset": "aac_96k",
+      "duration": 201779,
+      "snipped": false,
+      "format": {
+       "protocol": "ctr-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/ca97d0be-3eec-4c3f-826f-1530536b7a97/stream/cbc-encrypted-hls",
+      "preset": "abr_sq",
+      "duration": 201779,
+      "snipped": false,
+      "format": {
+       "protocol": "cbc-encrypted-hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/ca97d0be-3eec-4c3f-826f-1530536b7a97/stream/ctr-encrypted-hls",
+      "preset": "abr_sq",
+      "duration": 201779,
+      "snipped": false,
+      "format": {
+       "protocol": "ctr-encrypted-hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/1da330fa-2d21-4987-bc0f-4f4e0d5ddc52/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 201770,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:396530439/1da330fa-2d21-4987-bc0f-4f4e0d5ddc52/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 201770,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:396530439",
+   "station_permalink": "track-stations:396530439",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6ImY0MDkyMDExLTM4ODQtNDUzNS05ZjMyLTRkZTIxMmEzNGU4NiIsImlhdCI6MTc4OTgxMTIxM30.kFYBazCVF9ktz1cw-HQSixUvxV67Z-6LAwP3SO2f9NA",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-8q95JTTh1zaZOYV1-FOyy4w-large.jpg",
+    "city": "in these streets",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "Management: Moe Shalizi\nMoe@TheShaliziGroup.com\n\nBookings: \nshunt@teamwass.com\nmdiamond@teamwass.com\nsgoodgold@teamwass.com\nEurope:\nobi.asika@unitedtalent.com\n\n♬ @joytimecollective",
+    "followers_count": 1464955,
+    "followings_count": 17,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 110031956,
+    "kind": "user",
+    "last_modified": "2026-09-09T04:03:10Z",
+    "last_name": "",
+    "likes_count": 32,
+    "playlist_likes_count": 11,
+    "permalink": "marshmellomusic",
+    "permalink_url": "https://soundcloud.com/marshmellomusic",
+    "playlist_count": 37,
+    "reposts_count": null,
+    "track_count": 284,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A110031956",
+    "urn": "soundcloud:users:110031956",
+    "username": "marshmello",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:110031956",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:274291569",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-000110031956-B4umn5-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:110031956",
+    "station_permalink": "artist-stations:110031956",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-B1egWJTEyRVGzfJT-0I2IZA-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 3469,
+   "created_at": "2022-10-14T03:39:18Z",
+   "description": "Marshmello, Juice WRLD - Bye Bye \nStream/Download “Bye Bye”: https://MarshmelloxJuiceWRLD.lnk.to/ByeBye\nWatch \"Bye Bye\" Music Video: https://youtu.be/WpAuNSU--cQ\nWatch \"Bye Bye\" Lyric Video: https://youtu.be/ZnQMqj-Sbec\n\nFollow Marshmello:\nMerch | https://www.marshmellomusic.com/collections/new-arrivals\nSpotify | http://spoti.fi/Marshmello\nApple Music | http://apple.co/2n8Evz6\nSoundCloud | http://soundcloud.com/marshmellomusic\nInstagram | http://instagram.com/marshmello\nFacebook | http://facebook.com/marshmello\nTwitter | http://twitter.com/marshmello\nTwitch | http://twitch.tv/marshmellomusic\nTikTok | https://tiktok.com/@marshmello \n \nFollow Juice WRLD:\nMerch | https://999club.com/\nSoundCloud | https://soundcloud.com/uiceheidd\nTwitter | https://twitter.com/JuiceWorlddd\nInstagram | https://www.instagram.com/juicewrld999/",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 108545,
+   "full_duration": 108539,
+   "embeddable_by": "all",
+   "genre": "Hip-hop & Rap",
+   "has_downloads_left": false,
+   "id": 1362728704,
+   "kind": "track",
+   "label_name": "Joytime Collective/Grade A/Interscope",
+   "last_modified": "2022-10-19T19:48:27Z",
+   "license": "all-rights-reserved",
+   "likes_count": 116841,
+   "permalink": "byebye",
+   "permalink_url": "https://soundcloud.com/marshmellomusic/byebye",
+   "playback_count": 10163383,
+   "public": true,
+   "publisher_metadata": {
+    "id": 1362728704,
+    "urn": "soundcloud:tracks:1362728704",
+    "artist": "Marshmello, Juice WRLD",
+    "contains_music": true,
+    "isrc": "USUG12207828",
+    "explicit": true,
+    "p_line": "2022 Joytime Collective/Grade A/Interscope",
+    "p_line_for_display": "℗ 2022 Joytime Collective/Grade A/Interscope",
+    "release_title": "Bye Bye"
+   },
+   "purchase_title": "Stream/Download",
+   "purchase_url": "https://MarshmelloxJuiceWRLD.lnk.to/ByeBye",
+   "release_date": null,
+   "reposts_count": 2178,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Marshmello x Juice WRLD - Bye Bye",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1362728704",
+   "urn": "soundcloud:tracks:1362728704",
+   "user_id": 110031956,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/FhSsOefZl2li_m.json",
+   "display_date": "2022-10-14T03:59:57Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1362728704/ac4e41d5-479a-41e1-bdc3-c9e522011639/stream/hls",
+      "preset": "aac_160k",
+      "duration": 108545,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1362728704/321fcf8b-a98e-4ab3-8981-80b2cbd47eb4/stream/hls",
+      "preset": "aac_96k",
+      "duration": 108545,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1362728704/755ba2dd-0437-4766-b834-a78366bba7b3/stream/hls",
+      "preset": "abr_sq",
+      "duration": 108545,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1362728704/cad926dd-024f-48f0-8aa3-7ec33da227e8/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 108539,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:1362728704",
+   "station_permalink": "track-stations:1362728704",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjgwZGE0ZmI1LTBjOGMtNGVmMi1iNGM2LWY2ZGQ4OGNiYTI1MSIsImlhdCI6MTc4OTgxMTIxM30.4tUXSmlvL0klneon0ZzCIODAnoVMaLlMZf3MexjkEb0",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-8q95JTTh1zaZOYV1-FOyy4w-large.jpg",
+    "city": "in these streets",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "Management: Moe Shalizi\nMoe@TheShaliziGroup.com\n\nBookings: \nshunt@teamwass.com\nmdiamond@teamwass.com\nsgoodgold@teamwass.com\nEurope:\nobi.asika@unitedtalent.com\n\n♬ @joytimecollective",
+    "followers_count": 1464955,
+    "followings_count": 17,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 110031956,
+    "kind": "user",
+    "last_modified": "2026-09-09T04:03:10Z",
+    "last_name": "",
+    "likes_count": 32,
+    "playlist_likes_count": 11,
+    "permalink": "marshmellomusic",
+    "permalink_url": "https://soundcloud.com/marshmellomusic",
+    "playlist_count": 37,
+    "reposts_count": null,
+    "track_count": 284,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A110031956",
+    "urn": "soundcloud:users:110031956",
+    "username": "marshmello",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:110031956",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:274291569",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-000110031956-B4umn5-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:110031956",
+    "station_permalink": "artist-stations:110031956",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-000390226092-1vzsos-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 30500,
+   "created_at": "2018-08-17T04:02:52Z",
+   "description": "GET \"HAPPIER (FT. BASTILLE)\" HERE ▶ http://marshmello.lnk.to/happier\nGet your NEW Mello™️ by Marshmello gear HERE ▶ www.mellogang.com\n\nMARSHMELLO: \nSpotify | spoti.fi/Marshmello\nSoundCloud | @marshmellomusic\nInstagram | instagram.com/marshmellomusic\nTwitter | twitter.com/marshmellomusic\nFacebook | facebook.com/marshmellomusic\nMerch | http://mellogang.com",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 214335,
+   "full_duration": 214380,
+   "embeddable_by": "all",
+   "genre": "Dance & EDM",
+   "has_downloads_left": false,
+   "id": 486671055,
+   "kind": "track",
+   "label_name": null,
+   "last_modified": "2022-07-12T05:06:20Z",
+   "license": "all-rights-reserved",
+   "likes_count": 805119,
+   "permalink": "happier-ft-bastille",
+   "permalink_url": "https://soundcloud.com/marshmellomusic/happier-ft-bastille",
+   "playback_count": 62890829,
+   "public": true,
+   "publisher_metadata": {
+    "id": 486671055,
+    "urn": "soundcloud:tracks:486671055",
+    "artist": "Marshmello",
+    "contains_music": true,
+    "publisher": "Kobalt",
+    "isrc": "USUG11801651"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 24095,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Happier (ft. Bastille)",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A486671055",
+   "urn": "soundcloud:tracks:486671055",
+   "user_id": 110031956,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/3z16hDhXDczg_m.json",
+   "display_date": "2018-08-17T04:02:52Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:486671055/8033776f-d093-4e46-a70d-74312562d144/stream/hls",
+      "preset": "aac_160k",
+      "duration": 214335,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:486671055/c14947ca-fb5d-449a-93b9-1e82c8ece1ee/stream/hls",
+      "preset": "aac_96k",
+      "duration": 214335,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:486671055/cb4d22ac-ccb5-4ae5-8a53-5888ff52e2e9/stream/hls",
+      "preset": "abr_sq",
+      "duration": 214335,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:486671055/f78e3fc1-c952-4cb8-b2e9-bfbe2d208014/stream/hls",
+      "preset": "mp3_0_0",
+      "duration": 214380,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:486671055/f78e3fc1-c952-4cb8-b2e9-bfbe2d208014/stream/progressive",
+      "preset": "mp3_0_0",
+      "duration": 214380,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:486671055",
+   "station_permalink": "track-stations:486671055",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjZhMmVmMDhmLTE0N2MtNDFhZi05Yjk0LWI1MTVmYzQ5MDUxMCIsImlhdCI6MTc4OTgxMTIxM30.t3AWWCPGlVNo0bO3eYInSAfZTZLilKjSVkUgD30ixv4",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-8q95JTTh1zaZOYV1-FOyy4w-large.jpg",
+    "city": "in these streets",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "Management: Moe Shalizi\nMoe@TheShaliziGroup.com\n\nBookings: \nshunt@teamwass.com\nmdiamond@teamwass.com\nsgoodgold@teamwass.com\nEurope:\nobi.asika@unitedtalent.com\n\n♬ @joytimecollective",
+    "followers_count": 1464955,
+    "followings_count": 17,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 110031956,
+    "kind": "user",
+    "last_modified": "2026-09-09T04:03:10Z",
+    "last_name": "",
+    "likes_count": 32,
+    "playlist_likes_count": 11,
+    "permalink": "marshmellomusic",
+    "permalink_url": "https://soundcloud.com/marshmellomusic",
+    "playlist_count": 37,
+    "reposts_count": null,
+    "track_count": 284,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A110031956",
+    "urn": "soundcloud:users:110031956",
+    "username": "marshmello",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:110031956",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:274291569",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-000110031956-B4umn5-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:110031956",
+    "station_permalink": "artist-stations:110031956",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-000282971507-68uowo-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 9493,
+   "created_at": "2018-01-10T01:42:34Z",
+   "description": "http://lilpeep.com",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 177646,
+   "full_duration": 177675,
+   "embeddable_by": "all",
+   "genre": "Alternative Rock",
+   "has_downloads_left": false,
+   "id": 381320963,
+   "kind": "track",
+   "label_name": null,
+   "last_modified": "2024-01-22T03:10:00Z",
+   "license": "all-rights-reserved",
+   "likes_count": 794606,
+   "permalink": "spotlight-1",
+   "permalink_url": "https://soundcloud.com/lil_peep/spotlight-1",
+   "playback_count": 71892729,
+   "public": true,
+   "publisher_metadata": {
+    "id": 381320963,
+    "urn": "soundcloud:tracks:381320963",
+    "artist": "Lil Peep",
+    "contains_music": true,
+    "isrc": "TCADL1806966"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": "2018-01-10T00:00:00Z",
+   "reposts_count": 25620,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "\"lil peep\" marshmello",
+   "title": "Spotlight w/ Marshmello",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A381320963",
+   "urn": "soundcloud:tracks:381320963",
+   "user_id": 70601494,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/B0oGoxMrawa6_m.json",
+   "display_date": "2018-01-12T05:03:54Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:381320963/2c3f2a45-ff04-4c5e-8bde-e8809b3c5441/stream/hls",
+      "preset": "aac_160k",
+      "duration": 177646,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:381320963/0b213a57-b19e-4717-84d7-fbe7c3dc6f5c/stream/hls",
+      "preset": "aac_96k",
+      "duration": 177646,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:381320963/6ecd56e0-32d7-4b8a-9609-4d97ae2b82dd/stream/hls",
+      "preset": "abr_sq",
+      "duration": 177646,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:381320963/cb9280cb-04c0-4f2b-a9de-426086158f39/stream/hls",
+      "preset": "mp3_0_0",
+      "duration": 177675,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:381320963/cb9280cb-04c0-4f2b-a9de-426086158f39/stream/progressive",
+      "preset": "mp3_0_0",
+      "duration": 177675,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:381320963",
+   "station_permalink": "track-stations:381320963",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjM5NDk5NGMwLTk1YTItNDgxYy04NzEzLTM4ZGVjMzZlNzZhYiIsImlhdCI6MTc4OTgxMTIxM30.QBENPj-_jSwayAR8wSHt_ZHxEyB9G9rllTL3XY6yE_0",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-jygdL3kHrOfUr2y9-zWQ8Tg-large.jpg",
+    "city": "",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "",
+    "followers_count": 3435939,
+    "followings_count": 0,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 70601494,
+    "kind": "user",
+    "last_modified": "2026-08-07T04:04:12Z",
+    "last_name": "",
+    "likes_count": 147,
+    "playlist_likes_count": 10,
+    "permalink": "lil_peep",
+    "permalink_url": "https://soundcloud.com/lil_peep",
+    "playlist_count": 27,
+    "reposts_count": null,
+    "track_count": 236,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A70601494",
+    "urn": "soundcloud:users:70601494",
+    "username": "☆LiL PEEP☆",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:70601494",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:228051177",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-000070601494-ud5W8c-original.jpg",
+       "link": "https://lilpeep.com"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:70601494",
+    "station_permalink": "artist-stations:70601494",
+    "date_of_birth": null
+   }
+  }
+ ],
+ "total_results": 87686,
+ "next_href": "https://api-v2.soundcloud.com/search?query_urn=soundcloud%3Asearch%3A2a9a425f7e724fa28ad79d3f439c328d&limit=6&offset=6&q=marshmello",
+ "query_urn": "soundcloud:search:2a9a425f7e724fa28ad79d3f439c328d"
+}

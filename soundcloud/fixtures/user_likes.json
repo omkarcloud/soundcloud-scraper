@@ -1,0 +1,430 @@
+{
+ "collection": [
+  {
+   "created_at": "2020-05-07T01:11:08Z",
+   "kind": "like",
+   "track": {
+    "artwork_url": "https://i1.sndcdn.com/artworks-000147913381-xiugz3-large.jpg",
+    "caption": null,
+    "commentable": true,
+    "comment_count": 36,
+    "created_at": "2016-02-20T15:08:31Z",
+    "description": "",
+    "downloadable": false,
+    "download_count": 0,
+    "duration": 286635,
+    "full_duration": 286668,
+    "embeddable_by": "all",
+    "genre": "chinese",
+    "has_downloads_left": false,
+    "id": 248017839,
+    "kind": "track",
+    "label_name": null,
+    "last_modified": "2022-01-27T16:47:53Z",
+    "license": "all-rights-reserved",
+    "likes_count": 5917,
+    "permalink": "co-mong-song-senh",
+    "permalink_url": "https://soundcloud.com/kinn-tynd-1/co-mong-song-senh",
+    "playback_count": 990228,
+    "public": true,
+    "publisher_metadata": null,
+    "purchase_title": null,
+    "purchase_url": null,
+    "release_date": null,
+    "reposts_count": 235,
+    "secret_token": null,
+    "sharing": "public",
+    "state": "finished",
+    "streamable": true,
+    "tag_list": "Music",
+    "title": "Co Mong - Song Senh 故梦 - 双笙",
+    "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A248017839",
+    "urn": "soundcloud:tracks:248017839",
+    "user_id": 59906113,
+    "visuals": null,
+    "waveform_url": "https://wave.sndcdn.com/8jttTo6eV7Dl_m.json",
+    "display_date": "2016-02-20T15:08:31Z",
+    "media": {
+     "transcodings": [
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:248017839/fbb7cf47-178a-44a3-b044-b40e596271eb/stream/hls",
+       "preset": "aac_96k",
+       "duration": 286635,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "lq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:248017839/d2632788-363f-4150-9c47-531a2bddcb0b/stream/hls",
+       "preset": "abr_sq",
+       "duration": 286635,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpegurl"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:248017839/eebbb65b-497b-4a9c-96d9-abd6b31e2607/stream/hls",
+       "preset": "mp3_0_0",
+       "duration": 286668,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:248017839/eebbb65b-497b-4a9c-96d9-abd6b31e2607/stream/progressive",
+       "preset": "mp3_0_0",
+       "duration": 286668,
+       "snipped": false,
+       "format": {
+        "protocol": "progressive",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      }
+     ]
+    },
+    "station_urn": "soundcloud:system-playlists:track-stations:248017839",
+    "station_permalink": "track-stations:248017839",
+    "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjMxMTkyNDFjLTUwMDgtNDc2Mi04MGJjLTBjYmYwZDVmYWU2ZiIsImlhdCI6MTc4OTgxMTIxOX0.HpAkyRDOgP4puZrpjQ0MPtTk1X7HbxWFOi2-hHh0WoI",
+    "monetization_model": "NOT_APPLICABLE",
+    "policy": "ALLOW",
+    "user": {
+     "avatar_url": "https://i1.sndcdn.com/avatars-000056493186-zbve9t-large.jpg",
+     "first_name": "Kinn",
+     "followers_count": 94,
+     "full_name": "Kinn Tynd",
+     "id": 59906113,
+     "kind": "user",
+     "last_modified": "2015-09-04T03:15:44Z",
+     "last_name": "Tynd",
+     "permalink": "kinn-tynd-1",
+     "permalink_url": "https://soundcloud.com/kinn-tynd-1",
+     "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A59906113",
+     "urn": "soundcloud:users:59906113",
+     "username": "kinntynd1",
+     "verified": false,
+     "city": "",
+     "country_code": "VN",
+     "badges": {
+      "pro": false,
+      "creator_mid_tier": false,
+      "pro_unlimited": false,
+      "verified": false
+     },
+     "station_urn": "soundcloud:system-playlists:artist-stations:59906113",
+     "station_permalink": "artist-stations:59906113"
+    }
+   }
+  },
+  {
+   "created_at": "2020-04-11T15:07:18Z",
+   "kind": "like",
+   "track": {
+    "artwork_url": "https://i1.sndcdn.com/artworks-bbt67KvYONpUALpT-umG9MA-large.jpg",
+    "caption": null,
+    "commentable": true,
+    "comment_count": 37,
+    "created_at": "2020-03-12T02:48:06Z",
+    "description": "",
+    "downloadable": false,
+    "download_count": 0,
+    "duration": 4435847,
+    "full_duration": 4435827,
+    "embeddable_by": "all",
+    "genre": "Học tập",
+    "has_downloads_left": false,
+    "id": 774712111,
+    "kind": "track",
+    "label_name": null,
+    "last_modified": "2022-03-15T15:38:43Z",
+    "license": "all-rights-reserved",
+    "likes_count": 1348,
+    "permalink": "lofi-chill-relax-study-meditation-sleep-peaceful-times",
+    "permalink_url": "https://soundcloud.com/qu-ch-ph-ng-th-o-545402330/lofi-chill-relax-study-meditation-sleep-peaceful-times",
+    "playback_count": 79387,
+    "public": true,
+    "publisher_metadata": {
+     "id": 774712111,
+     "urn": "soundcloud:tracks:774712111",
+     "artist": "TempFileGetLink",
+     "contains_music": true,
+     "publisher": "NONOMAN"
+    },
+    "purchase_title": null,
+    "purchase_url": null,
+    "release_date": null,
+    "reposts_count": 40,
+    "secret_token": null,
+    "sharing": "public",
+    "state": "finished",
+    "streamable": true,
+    "tag_list": "\"Nhạc Lofi\" \"Nhạc không lời\"",
+    "title": "Lofi Chill - Relax - Study - Meditation - Sleep / Peaceful Times",
+    "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A774712111",
+    "urn": "soundcloud:tracks:774712111",
+    "user_id": 334840489,
+    "visuals": null,
+    "waveform_url": "https://wave.sndcdn.com/Vu7xxWSEwvPx_m.json",
+    "display_date": "2020-03-12T02:49:30Z",
+    "media": {
+     "transcodings": [
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:774712111/f162f3ed-db5f-4e1f-9efd-af5542e7a151/stream/hls",
+       "preset": "aac_160k",
+       "duration": 4435847,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:774712111/4f5b0096-9ced-463d-8bd9-4bb100adc7ce/stream/hls",
+       "preset": "aac_96k",
+       "duration": 4435847,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "lq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:774712111/85f45c67-58f6-4fd7-be66-62deb7175e07/stream/hls",
+       "preset": "abr_sq",
+       "duration": 4435847,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpegurl"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:774712111/d31ae566-0a11-4588-8294-43c9172d30f1/stream/hls",
+       "preset": "mp3_0_1",
+       "duration": 4435827,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:774712111/d31ae566-0a11-4588-8294-43c9172d30f1/stream/progressive",
+       "preset": "mp3_0_1",
+       "duration": 4435827,
+       "snipped": false,
+       "format": {
+        "protocol": "progressive",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      }
+     ]
+    },
+    "station_urn": "soundcloud:system-playlists:track-stations:774712111",
+    "station_permalink": "track-stations:774712111",
+    "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6ImMyYThlZDAxLTBjNTMtNDBhNC1iNTkxLWUzYWQ1NzE1YWE0YiIsImlhdCI6MTc4OTgxMTIxOX0.ShAGcef7xr-yq6YLZeNNmCbjCK_6n0IdYxdgJdWhkec",
+    "monetization_model": "NOT_APPLICABLE",
+    "policy": "ALLOW",
+    "user": {
+     "avatar_url": "https://i1.sndcdn.com/avatars-BNAdnx942h2rMrR3-myU2yQ-large.jpg",
+     "first_name": "Thảo",
+     "followers_count": 66,
+     "full_name": "Thảo Quách",
+     "id": 334840489,
+     "kind": "user",
+     "last_modified": "2020-03-12T03:08:12Z",
+     "last_name": "Quách",
+     "permalink": "qu-ch-ph-ng-th-o-545402330",
+     "permalink_url": "https://soundcloud.com/qu-ch-ph-ng-th-o-545402330",
+     "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A334840489",
+     "urn": "soundcloud:users:334840489",
+     "username": "Lofi Lover ❤️",
+     "verified": false,
+     "city": "Hà Nội",
+     "country_code": "VN",
+     "badges": {
+      "pro": false,
+      "creator_mid_tier": false,
+      "pro_unlimited": false,
+      "verified": false
+     },
+     "station_urn": "soundcloud:system-playlists:artist-stations:334840489",
+     "station_permalink": "artist-stations:334840489"
+    }
+   }
+  },
+  {
+   "created_at": "2019-10-07T11:45:50Z",
+   "kind": "like",
+   "track": {
+    "artwork_url": "https://i1.sndcdn.com/artworks-000553733628-ys2ial-large.jpg",
+    "caption": null,
+    "commentable": true,
+    "comment_count": 3,
+    "created_at": "2019-06-18T05:14:47Z",
+    "description": "Download(MP3,OGG,M4A) : https://peritune.com/legacy_ruins/\nmp3(192kbps)はフリーDL出来、個人・商用問わず無料でお使いいただけます。\nhttps://peritune.com/",
+    "downloadable": true,
+    "download_count": 787,
+    "duration": 314539,
+    "full_duration": 314595,
+    "embeddable_by": "all",
+    "genre": "Easy_listening",
+    "has_downloads_left": true,
+    "id": 638380800,
+    "kind": "track",
+    "label_name": null,
+    "last_modified": "2021-08-25T16:10:29Z",
+    "license": "cc-by",
+    "likes_count": 162,
+    "permalink": "legacy_ruins",
+    "permalink_url": "https://soundcloud.com/sei_peridot/legacy_ruins",
+    "playback_count": 20090,
+    "public": true,
+    "publisher_metadata": {
+     "id": 638380800,
+     "urn": "soundcloud:tracks:638380800",
+     "artist": "PeriTune",
+     "contains_music": true,
+     "isrc": "QZHPJ1904712",
+     "writer_composer": "PeriTune"
+    },
+    "purchase_title": null,
+    "purchase_url": null,
+    "release_date": null,
+    "reposts_count": 8,
+    "secret_token": null,
+    "sharing": "public",
+    "state": "finished",
+    "streamable": true,
+    "tag_list": "Soundtrack, Fantasy, Orchestra, Folk, Emotional, Game, Easy_listening, Instrumental, New_Age, video_game_music, VGM, Chillout, Chill, Healing, Cinematic, Classic, classical, royaltyfree, royalty_free, royalty_free_music, Stock_music, Piano,",
+    "title": "Legacy_Ruins(Royalty Free Music)",
+    "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A638380800",
+    "urn": "soundcloud:tracks:638380800",
+    "user_id": 1946699,
+    "visuals": null,
+    "waveform_url": "https://wave.sndcdn.com/VE2HWrml8DVZ_m.json",
+    "display_date": "2019-06-18T05:14:47Z",
+    "media": {
+     "transcodings": [
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:638380800/28dacb30-5e70-4adf-83a8-41b194094687/stream/hls",
+       "preset": "aac_160k",
+       "duration": 314539,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:638380800/479de101-0587-42b0-95e3-27b8051b8ddf/stream/hls",
+       "preset": "aac_96k",
+       "duration": 314539,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+       },
+       "quality": "lq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:638380800/5c55ea5c-5cc6-4cca-8316-7e0462df22ed/stream/hls",
+       "preset": "abr_sq",
+       "duration": 314539,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpegurl"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": false
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:638380800/ee8e3522-749b-43b3-ac27-3c3b0e5b77f5/stream/hls",
+       "preset": "mp3_0_0",
+       "duration": 314595,
+       "snipped": false,
+       "format": {
+        "protocol": "hls",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      },
+      {
+       "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:638380800/ee8e3522-749b-43b3-ac27-3c3b0e5b77f5/stream/progressive",
+       "preset": "mp3_0_0",
+       "duration": 314595,
+       "snipped": false,
+       "format": {
+        "protocol": "progressive",
+        "mime_type": "audio/mpeg"
+       },
+       "quality": "sq",
+       "is_legacy_transcoding": true
+      }
+     ]
+    },
+    "station_urn": "soundcloud:system-playlists:track-stations:638380800",
+    "station_permalink": "track-stations:638380800",
+    "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjhkMDg0MDMxLWU0MDMtNDEyYS1hYmU1LTQ2MTFiMTVjMjc5NyIsImlhdCI6MTc4OTgxMTIxOX0.PWK8U-k_wnWSEgNu68LNHJ2sfkp1-vpFStty3_RUc7U",
+    "monetization_model": "NOT_APPLICABLE",
+    "policy": "ALLOW",
+    "user": {
+     "avatar_url": "https://i1.sndcdn.com/avatars-QbTyv9dzRiFrM9aH-2vNNuQ-large.jpg",
+     "first_name": "",
+     "followers_count": 10014,
+     "full_name": "",
+     "id": 1946699,
+     "kind": "user",
+     "last_modified": "2024-06-05T15:03:24Z",
+     "last_name": "",
+     "permalink": "sei_peridot",
+     "permalink_url": "https://soundcloud.com/sei_peridot",
+     "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1946699",
+     "urn": "soundcloud:users:1946699",
+     "username": "PeriTune",
+     "verified": false,
+     "city": "Ehime",
+     "country_code": "JP",
+     "badges": {
+      "pro": false,
+      "creator_mid_tier": false,
+      "pro_unlimited": true,
+      "verified": false
+     },
+     "station_urn": "soundcloud:system-playlists:artist-stations:1946699",
+     "station_permalink": "artist-stations:1946699"
+    }
+   }
+  }
+ ],
+ "next_href": "https://api-v2.soundcloud.com/users/334840489/likes?offset=2019-10-07T11%3A45%3A50.331Z%2Cuser-track-likes%2C000-00000000000334840489-00000000000638380800&limit=3",
+ "query_urn": null
+}

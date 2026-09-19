@@ -1,0 +1,549 @@
+{
+ "collection": [
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-Wlp4Yz0biydOymIY-XulhEg-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 63,
+   "created_at": "2021-06-14T15:40:10Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 165218,
+   "full_duration": 165198,
+   "embeddable_by": "all",
+   "genre": "",
+   "has_downloads_left": false,
+   "id": 1068221248,
+   "kind": "track",
+   "label_name": null,
+   "last_modified": "2021-06-14T15:40:11Z",
+   "license": "all-rights-reserved",
+   "likes_count": 10505,
+   "permalink": "she-neva-know-lofi-ver",
+   "permalink_url": "https://soundcloud.com/tien-pham-418156952/she-neva-know-lofi-ver",
+   "playback_count": 2752187,
+   "public": true,
+   "publisher_metadata": {
+    "id": 1068221248,
+    "urn": "soundcloud:tracks:1068221248",
+    "contains_music": true
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 200,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "She Neva Know Lofi Ver",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1068221248",
+   "urn": "soundcloud:tracks:1068221248",
+   "user_id": 779476813,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/2AIL7484hLd9_m.json",
+   "display_date": "2021-06-14T15:40:10Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1068221248/79fd32ca-f1fb-415b-b95d-42c1f22115b2/stream/hls",
+      "preset": "aac_160k",
+      "duration": 165218,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1068221248/784e264c-72c2-4aa7-b629-6830d4ac2222/stream/hls",
+      "preset": "aac_96k",
+      "duration": 165218,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1068221248/9f35a0ef-c157-45a5-ae23-8f925162dc9f/stream/hls",
+      "preset": "abr_sq",
+      "duration": 165218,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1068221248/2ccab154-2dbe-4baa-ae7d-53fc648988cf/stream/hls",
+      "preset": "mp3_0_1",
+      "duration": 165198,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1068221248/2ccab154-2dbe-4baa-ae7d-53fc648988cf/stream/progressive",
+      "preset": "mp3_0_1",
+      "duration": 165198,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:1068221248",
+   "station_permalink": "track-stations:1068221248",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjFhZTI0Y2NjLWZkMjUtNGIzOC04NGE4LTA5OGNhNmMxZGYyMiIsImlhdCI6MTc4OTgxMTIxNH0.oAJFwfOUnWtZt_zNihK64W460g8m7sRKGO4HwpfoyH8",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-8ZMhNK4iv3gTcbYS-1JD89g-large.jpg",
+    "city": "",
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "free"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "free"
+     }
+    },
+    "description": "",
+    "followers_count": 231,
+    "followings_count": 5,
+    "first_name": "Tien",
+    "full_name": "Tien Pham",
+    "groups_count": 0,
+    "id": 779476813,
+    "kind": "user",
+    "last_modified": "2024-02-10T08:45:29Z",
+    "last_name": "Pham",
+    "likes_count": 41,
+    "playlist_likes_count": 8,
+    "permalink": "tien-pham-418156952",
+    "permalink_url": "https://soundcloud.com/tien-pham-418156952",
+    "playlist_count": 0,
+    "reposts_count": null,
+    "track_count": 12,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A779476813",
+    "urn": "soundcloud:users:779476813",
+    "username": "Tien Pham",
+    "verified": false,
+    "visuals": {
+     "urn": "soundcloud:users:779476813",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:157809339",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-vPcVj1AwrQRT7b7g-7lzkAQ-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:779476813",
+    "station_permalink": "artist-stations:779476813",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": null,
+   "caption": null,
+   "commentable": true,
+   "comment_count": 45,
+   "created_at": "2025-09-25T07:02:17Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 257207,
+   "full_duration": 257202,
+   "embeddable_by": "all",
+   "genre": "",
+   "has_downloads_left": false,
+   "id": 2176251972,
+   "kind": "track",
+   "label_name": "",
+   "last_modified": "2025-09-25T07:04:43Z",
+   "license": "all-rights-reserved",
+   "likes_count": 10087,
+   "permalink": "hoa-si-toi-lofi-ver",
+   "permalink_url": "https://soundcloud.com/thanh-tung-284086793/hoa-si-toi-lofi-ver",
+   "playback_count": 2156109,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2176251972,
+    "urn": "soundcloud:tracks:2176251972",
+    "artist": "Thanh Tùng",
+    "explicit": false
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 150,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Họa Sĩ Tồi Lofi Chill",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2176251972",
+   "urn": "soundcloud:tracks:2176251972",
+   "user_id": 1605641268,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/eVK79csMddUq_m.json",
+   "display_date": "2025-09-25T07:02:17Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2176251972/754c0264-0ec7-4eae-ae7f-c54289f31e9d/stream/hls",
+      "preset": "aac_96k",
+      "duration": 257207,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2176251972/50883287-fed5-4958-960d-9976a6acb8dc/stream/hls",
+      "preset": "abr_sq",
+      "duration": 257207,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2176251972/e841eadc-8c81-4b5f-aa20-8a9c340cbe3d/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 257202,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2176251972/e841eadc-8c81-4b5f-aa20-8a9c340cbe3d/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 257202,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2176251972",
+   "station_permalink": "track-stations:2176251972",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6ImY5MTgyNGVkLTEzMzEtNDJkMC1iMzUwLWM1YmQxMzlmMWM0OCIsImlhdCI6MTc4OTgxMTIxNH0.P3kk9fik2kHRLaMe3UHgZm3xszW_x74dDNICvRy2Cjg",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-pgjZaOID43v9m32S-zfSRBQ-large.jpg",
+    "city": "Hanoi",
+    "comments_count": 0,
+    "country_code": "VN",
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "free"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "free"
+     }
+    },
+    "description": null,
+    "followers_count": 933,
+    "followings_count": 0,
+    "first_name": "Thanh",
+    "full_name": "Thanh Tùng",
+    "groups_count": 0,
+    "id": 1605641268,
+    "kind": "user",
+    "last_modified": "2025-09-22T02:49:15Z",
+    "last_name": "Tùng",
+    "likes_count": 1,
+    "playlist_likes_count": 0,
+    "permalink": "thanh-tung-284086793",
+    "permalink_url": "https://soundcloud.com/thanh-tung-284086793",
+    "playlist_count": 1,
+    "reposts_count": null,
+    "track_count": 18,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1605641268",
+    "urn": "soundcloud:users:1605641268",
+    "username": "Thanh Tùng",
+    "verified": false,
+    "visuals": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1605641268",
+    "station_permalink": "artist-stations:1605641268",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-NbiTxz9fagemVHeq-nRlzxg-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 29,
+   "created_at": "2022-12-07T06:14:58Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 290057,
+   "full_duration": 290038,
+   "embeddable_by": "all",
+   "genre": "",
+   "has_downloads_left": false,
+   "id": 1397776639,
+   "kind": "track",
+   "label_name": null,
+   "last_modified": "2022-12-07T06:15:09Z",
+   "license": "all-rights-reserved",
+   "likes_count": 5319,
+   "permalink": "n-u-ng-y-y-lofi-soobin-ho-ng-s",
+   "permalink_url": "https://soundcloud.com/thanh-nh-227237344/n-u-ng-y-y-lofi-soobin-ho-ng-s",
+   "playback_count": 1089929,
+   "public": true,
+   "publisher_metadata": null,
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 48,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Nếu Ngày Ấy ( Lofi ) - Soobin Hoàng Sơn",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1397776639",
+   "urn": "soundcloud:tracks:1397776639",
+   "user_id": 959172046,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/x1RJ0vuKeeym_m.json",
+   "display_date": "2022-12-07T06:14:58Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1397776639/fdf645a3-8e90-4e1f-ae5a-61e2ecccd25c/stream/hls",
+      "preset": "aac_96k",
+      "duration": 290057,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1397776639/ed3ef6b5-7c42-40f0-8f24-b7e64e0a1bd8/stream/hls",
+      "preset": "abr_sq",
+      "duration": 290057,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1397776639/0d434027-30f1-4134-b08b-50fd0ec6b8e1/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 290038,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1397776639/0d434027-30f1-4134-b08b-50fd0ec6b8e1/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 290038,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:1397776639",
+   "station_permalink": "track-stations:1397776639",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjYxMTQ4ZTE4LTA4YzItNDQxYy05MWY3LTAyMmJlNGFiYTk5MSIsImlhdCI6MTc4OTgxMTIxNH0.LZpMbrlmWTkEQLkMPVToV6qC610XS7mCxuOyQIIdju8",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-nswALsK7GgfcIKSK-zwbrwQ-large.jpg",
+    "city": "Ben Tre",
+    "comments_count": 0,
+    "country_code": "VN",
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "free"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "free"
+     }
+    },
+    "description": "fb Thanh Địnhh (Johan)",
+    "followers_count": 200,
+    "followings_count": 2,
+    "first_name": "Định",
+    "full_name": "Định Thanh",
+    "groups_count": 0,
+    "id": 959172046,
+    "kind": "user",
+    "last_modified": "2024-01-06T08:27:20Z",
+    "last_name": "Thanh",
+    "likes_count": 42,
+    "playlist_likes_count": 1,
+    "permalink": "thanh-nh-227237344",
+    "permalink_url": "https://soundcloud.com/thanh-nh-227237344",
+    "playlist_count": 5,
+    "reposts_count": null,
+    "track_count": 9,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A959172046",
+    "urn": "soundcloud:users:959172046",
+    "username": "Thanh Định",
+    "verified": false,
+    "visuals": {
+     "urn": "soundcloud:users:959172046",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:180931794",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-1enxXoq8ZV57iIzr-Xhy7jQ-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:959172046",
+    "station_permalink": "artist-stations:959172046",
+    "date_of_birth": null
+   }
+  }
+ ],
+ "total_results": 1441465,
+ "facets": [
+  {
+   "name": "genre",
+   "facets": [
+    {
+     "value": "indie",
+     "count": 37189,
+     "filter": "filter.genre=indie"
+    },
+    {
+     "value": "lo-fi",
+     "count": 39768,
+     "filter": "filter.genre=lo-fi"
+    },
+    {
+     "value": "pop",
+     "count": 24887,
+     "filter": "filter.genre=pop"
+    },
+    {
+     "value": "electronic",
+     "count": 93533,
+     "filter": "filter.genre=electronic"
+    },
+    {
+     "value": "new age",
+     "count": 24139,
+     "filter": "filter.genre=new+age"
+    },
+    {
+     "value": "ambient",
+     "count": 76252,
+     "filter": "filter.genre=ambient"
+    },
+    {
+     "value": "hip-hop & rap",
+     "count": 296353,
+     "filter": "filter.genre=hip-hop+%26+rap"
+    },
+    {
+     "value": "lofi",
+     "count": 172446,
+     "filter": "filter.genre=lofi"
+    },
+    {
+     "value": "easy listening",
+     "count": 32169,
+     "filter": "filter.genre=easy+listening"
+    }
+   ]
+  }
+ ],
+ "next_href": "https://api-v2.soundcloud.com/search/tracks?query_urn=soundcloud%3Asearch%3A65327ecc60134bcd89bc45ad59953c11&facet=genre&limit=3&offset=3&q=lofi",
+ "query_urn": "soundcloud:search:65327ecc60134bcd89bc45ad59953c11"
+}

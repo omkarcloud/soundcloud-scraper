@@ -1,0 +1,49 @@
+[
+ {
+  "url": "http://www.edsheeran.com/",
+  "network": "personal",
+  "title": "edsheeran.com",
+  "username": ""
+ },
+ {
+  "url": "https://www.instagram.com/teddysphotos/",
+  "network": "instagram",
+  "title": "",
+  "username": "teddysphotos"
+ },
+ {
+  "url": "http://twitter.com/edsheeran",
+  "network": "twitter",
+  "title": "",
+  "username": "edsheeran"
+ },
+ {
+  "url": "https://www.facebook.com/EdSheeranMusic",
+  "network": "facebook",
+  "title": "",
+  "username": "EdSheeranMusic"
+ },
+ {
+  "url": "https://www.tiktok.com/@edsheeran",
+  "network": "personal",
+  "title": "TikTok",
+  "username": "Ed+Sheeran"
+ },
+ {
+  "url": "http://www.songkick.com/artists/2083334-ed-sheeran",
+  "network": "songkick",
+  "title": "",
+  "username": "2083334"
+ },
+ {
+  "url": "http://www.youtube.com/user/EdSheeran",
+  "network": "youtube",
+  "title": "",
+  "username": "EdSheeran"
+ },
+ {
+  "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V?si=WqqG4M2hRyC15Qtt6ia5kg",
+  "network": "spotify",
+  "title": ""
+ }
+]

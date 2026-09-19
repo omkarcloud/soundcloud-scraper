@@ -1,0 +1,289 @@
+{
+ "collection": [
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-iDTscghxyazPo0KF-kfMTow-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 1,
+   "created_at": "2024-07-19T09:35:58Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 370336,
+   "full_duration": 370338,
+   "embeddable_by": "all",
+   "genre": "",
+   "has_downloads_left": false,
+   "id": 1875590814,
+   "kind": "track",
+   "label_name": null,
+   "last_modified": "2024-07-19T09:35:59Z",
+   "license": "all-rights-reserved",
+   "likes_count": 307,
+   "permalink": "kh-ng-th-bu-ng-japandee-remix",
+   "permalink_url": "https://soundcloud.com/hai-tran-563227117/kh-ng-th-bu-ng-japandee-remix",
+   "playback_count": 30892,
+   "public": true,
+   "publisher_metadata": {
+    "id": 1875590814,
+    "urn": "soundcloud:tracks:1875590814",
+    "contains_music": true
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 6,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Không Thể Buông - JapanDee Remix [ Final ]",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1875590814",
+   "urn": "soundcloud:tracks:1875590814",
+   "user_id": 1416978993,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/X4U8n6p9HIon_m.json",
+   "display_date": "2024-07-19T09:35:58Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1875590814/056b4f22-b95e-437d-b205-7d3d9225983b/stream/hls",
+      "preset": "aac_160k",
+      "duration": 370336,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1875590814/7f7d94f9-93a5-4cca-a5ed-6500f3f8a8c7/stream/hls",
+      "preset": "aac_96k",
+      "duration": 370336,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1875590814/609a6d28-9e8a-4979-8b5c-d80677ba4061/stream/hls",
+      "preset": "abr_sq",
+      "duration": 370336,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1875590814/2bcdb4aa-e134-48db-929e-a6ec243bedbd/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 370338,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1875590814/2bcdb4aa-e134-48db-929e-a6ec243bedbd/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 370338,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:1875590814",
+   "station_permalink": "track-stations:1875590814",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjAwNWI1YTI1LTc5ZjYtNDE5OS04Zjg2LWM0OTI0ZDAzMGZhNiIsImlhdCI6MTc4OTgxMTIxN30.6E2zkZKuTpU-trJ2ywuV7ONHjVJDKx8Avs19EdgQ_OA",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-001366734393-7mp3z3-large.jpg",
+    "first_name": "JAPANDEE",
+    "followers_count": 585,
+    "full_name": "JAPANDEE REMIX",
+    "id": 1416978993,
+    "kind": "user",
+    "last_modified": "2024-07-19T09:53:29Z",
+    "last_name": "REMIX",
+    "permalink": "hai-tran-563227117",
+    "permalink_url": "https://soundcloud.com/hai-tran-563227117",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1416978993",
+    "urn": "soundcloud:users:1416978993",
+    "username": "JAPANDEE REMIX",
+    "verified": false,
+    "city": null,
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1416978993",
+    "station_permalink": "artist-stations:1416978993"
+   }
+  },
+  {
+   "artwork_url": null,
+   "caption": null,
+   "commentable": true,
+   "comment_count": 421,
+   "created_at": "2023-11-17T11:21:32Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 312689,
+   "full_duration": 312686,
+   "embeddable_by": "all",
+   "genre": "",
+   "has_downloads_left": false,
+   "id": 1667399454,
+   "kind": "track",
+   "label_name": null,
+   "last_modified": "2026-05-21T15:13:06Z",
+   "license": "all-rights-reserved",
+   "likes_count": 11871,
+   "permalink": "gods-thereon-remix",
+   "permalink_url": "https://soundcloud.com/thereon-producer/gods-thereon-remix",
+   "playback_count": 1342424,
+   "public": true,
+   "publisher_metadata": {
+    "id": 1667399454,
+    "urn": "soundcloud:tracks:1667399454",
+    "contains_music": true
+   },
+   "purchase_title": null,
+   "purchase_url": "https://pumpyoursound.com/f/khai/gods-new-jeans-thereon-remix/164321",
+   "release_date": null,
+   "reposts_count": 539,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Gods - Thereon Remix",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1667399454",
+   "urn": "soundcloud:tracks:1667399454",
+   "user_id": 1250515954,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/5ARaPoVTcsp4_m.json",
+   "display_date": "2023-11-17T11:21:32Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1667399454/755cd483-bd86-439a-81cc-7ffa4aba6c1d/stream/hls",
+      "preset": "aac_160k",
+      "duration": 312689,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1667399454/400f4d96-93b2-44dc-b46c-33f9f557eb6d/stream/hls",
+      "preset": "aac_96k",
+      "duration": 312689,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1667399454/8ccc6c62-0158-4963-84bc-e3d25ac24cfb/stream/hls",
+      "preset": "abr_sq",
+      "duration": 312689,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1667399454/ea350da0-8f95-4509-a158-6d91d2dd0190/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 312686,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1667399454/ea350da0-8f95-4509-a158-6d91d2dd0190/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 312686,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:1667399454",
+   "station_permalink": "track-stations:1667399454",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjcxZWUwNDI5LWY5YWEtNGI0ZS04ZjdjLTA2YzZjZDVlMGJjMiIsImlhdCI6MTc4OTgxMTIxN30.r-qlIXn6UcomfEZlSXwK84XGLLpIgve_8a9m70jEbkU",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-e3Yz5mbfCR9hR7bk-iigqOQ-large.jpg",
+    "first_name": "THEREON",
+    "followers_count": 15798,
+    "full_name": "THEREON",
+    "id": 1250515954,
+    "kind": "user",
+    "last_modified": "2026-06-11T11:48:46Z",
+    "last_name": "",
+    "permalink": "thereon-producer",
+    "permalink_url": "https://soundcloud.com/thereon-producer",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1250515954",
+    "urn": "soundcloud:users:1250515954",
+    "username": "THEREON Official",
+    "verified": false,
+    "city": "HO CHI MINH",
+    "country_code": "VN",
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1250515954",
+    "station_permalink": "artist-stations:1250515954"
+   }
+  }
+ ],
+ "next_href": "https://api-v2.soundcloud.com/tracks/1516134547/related?client_id=Pb72ranhoyt6gw7hM7TkzUItXlMWSNSo&offset=2&limit=3",
+ "query_urn": "soundcloud:similarsounds:2b90455ca4a7405ab9ec69cd14ad152f",
+ "variant": "sim_sounds_v3"
+}

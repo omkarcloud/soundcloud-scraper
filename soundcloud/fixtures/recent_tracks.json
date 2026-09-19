@@ -1,0 +1,530 @@
+{
+ "collection": [
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-tj7v5REpbJtfBLed-fFvDow-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 0,
+   "created_at": "2026-09-19T09:12:35Z",
+   "description": "lofi session vol.1 - douce nuit ",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 125263,
+   "full_duration": 125217,
+   "embeddable_by": "all",
+   "genre": "lofi",
+   "has_downloads_left": false,
+   "id": 2403510726,
+   "kind": "track",
+   "label_name": "",
+   "last_modified": "2026-09-19T09:12:35Z",
+   "license": "all-rights-reserved",
+   "likes_count": 0,
+   "permalink": "douce-nuit-lofi-session-vol-1",
+   "permalink_url": "https://soundcloud.com/prodbyjivey/douce-nuit-lofi-session-vol-1",
+   "playback_count": 0,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2403510726,
+    "urn": "soundcloud:tracks:2403510726",
+    "artist": "prodbyjivey",
+    "explicit": false
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 0,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "lofi chill chillhop jazz",
+   "title": "Douce Nuit (lofi session vol.1)",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2403510726",
+   "urn": "soundcloud:tracks:2403510726",
+   "user_id": 1672337684,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/B4jgdN9UpJGx_m.json",
+   "display_date": "2026-09-19T09:12:35Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403510726/366175a0-0931-4fe7-95b3-80c217decef2/stream/hls",
+      "preset": "aac_160k",
+      "duration": 125263,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403510726/f5b44b02-0d6b-47b5-b99c-b7a4ec09dc0f/stream/hls",
+      "preset": "aac_96k",
+      "duration": 125263,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403510726/98225e12-5aaa-4b89-afcb-37146fc8b309/stream/hls",
+      "preset": "abr_sq",
+      "duration": 125263,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403510726/b681007d-3f4a-43b3-94a9-0ce8a2b7efc7/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 125217,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403510726/b681007d-3f4a-43b3-94a9-0ce8a2b7efc7/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 125217,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2403510726",
+   "station_permalink": "track-stations:2403510726",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IiIsImlhdCI6MTc4OTgxMTIyM30.L1NEm3mUxKyzCYGXM0iqw8onbkln6k11DhPiZSETktQ",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-fl45i54iumedx5t6-XCkjSw-large.jpg",
+    "city": null,
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "free"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "free"
+     }
+    },
+    "description": "🇫🇷 beatmaker \n\n-- \nyou can purchase my beats by instagram or by soundcloud pm",
+    "followers_count": 0,
+    "followings_count": 15,
+    "first_name": "jivey",
+    "full_name": "jivey",
+    "groups_count": 0,
+    "id": 1672337684,
+    "kind": "user",
+    "last_modified": "2026-07-30T22:54:13Z",
+    "last_name": "",
+    "likes_count": 54,
+    "playlist_likes_count": 3,
+    "permalink": "prodbyjivey",
+    "permalink_url": "https://soundcloud.com/prodbyjivey",
+    "playlist_count": 0,
+    "reposts_count": null,
+    "track_count": 39,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1672337684",
+    "urn": "soundcloud:users:1672337684",
+    "username": "prodbyjivey",
+    "verified": false,
+    "visuals": {
+     "urn": "soundcloud:users:1672337684",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:270570189",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-z2kfX7RdEpDSnXPq-Bw7Zow-original.jpg"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1672337684",
+    "station_permalink": "artist-stations:1672337684",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-YOmYMsl9gnaM1dfj-Lg2F7w-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 0,
+   "created_at": "2026-09-19T08:55:23Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 150616,
+   "full_duration": 150569,
+   "embeddable_by": "all",
+   "genre": "Hip-hop & Rap",
+   "has_downloads_left": false,
+   "id": 2403506586,
+   "kind": "track",
+   "label_name": "",
+   "last_modified": "2026-09-19T08:55:49Z",
+   "license": "all-rights-reserved",
+   "likes_count": 0,
+   "permalink": "onodrim",
+   "permalink_url": "https://soundcloud.com/grigoriy-velosipedov/onodrim",
+   "playback_count": 2,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2403506586,
+    "urn": "soundcloud:tracks:2403506586",
+    "artist": "Grigoriy Velosipedov",
+    "explicit": false
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": null,
+   "reposts_count": 0,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "\"Memphis \" \"memphis rap\" phonk \"dungeon rap\" \"dungeon synth\" rap \"Hip-hop & Rap\" \"lofi \" beat",
+   "title": "Onodrim",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2403506586",
+   "urn": "soundcloud:tracks:2403506586",
+   "user_id": 1733925077,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/t5YI649Jxakb_m.json",
+   "display_date": "2026-09-19T08:55:23Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403506586/91c5d2e5-0414-4091-893a-f109e8364638/stream/hls",
+      "preset": "aac_160k",
+      "duration": 150616,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403506586/2f627797-a388-43f1-8020-101f1e382661/stream/hls",
+      "preset": "aac_96k",
+      "duration": 150616,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403506586/91d6381b-f2d7-49e3-9a66-e85daea7e0aa/stream/hls",
+      "preset": "abr_sq",
+      "duration": 150616,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403506586/1e02f6ef-1a38-4bfb-bc59-9aad9417ed94/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 150569,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2403506586/1e02f6ef-1a38-4bfb-bc59-9aad9417ed94/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 150569,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2403506586",
+   "station_permalink": "track-stations:2403506586",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IiIsImlhdCI6MTc4OTgxMTIyM30.L1NEm3mUxKyzCYGXM0iqw8onbkln6k11DhPiZSETktQ",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-5A4BKTOldOIQhvpL-kPTrOQ-large.jpg",
+    "city": null,
+    "comments_count": 0,
+    "country_code": null,
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "free"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "free"
+     }
+    },
+    "description": null,
+    "followers_count": 2,
+    "followings_count": 1,
+    "first_name": "",
+    "full_name": "",
+    "groups_count": 0,
+    "id": 1733925077,
+    "kind": "user",
+    "last_modified": "2026-07-26T15:45:53Z",
+    "last_name": "",
+    "likes_count": 0,
+    "playlist_likes_count": 0,
+    "permalink": "grigoriy-velosipedov",
+    "permalink_url": "https://soundcloud.com/grigoriy-velosipedov",
+    "playlist_count": 0,
+    "reposts_count": null,
+    "track_count": 2,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1733925077",
+    "urn": "soundcloud:users:1733925077",
+    "username": "Grigoriy Velosipedov",
+    "verified": false,
+    "visuals": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1733925077",
+    "station_permalink": "artist-stations:1733925077",
+    "date_of_birth": null
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-moZbMfwMDof9l3zO-2kdvhA-large.png",
+   "caption": null,
+   "commentable": true,
+   "comment_count": null,
+   "created_at": "2026-06-24T13:36:55Z",
+   "description": "",
+   "downloadable": false,
+   "download_count": null,
+   "duration": 240046,
+   "full_duration": 240000,
+   "embeddable_by": "all",
+   "genre": "Hip-hop & Rap",
+   "has_downloads_left": false,
+   "id": 2345327726,
+   "kind": "track",
+   "label_name": "",
+   "last_modified": "2026-09-19T09:15:30Z",
+   "license": "all-rights-reserved",
+   "likes_count": null,
+   "permalink": "sandpiper",
+   "permalink_url": "https://soundcloud.com/ominousthespirit/sandpiper",
+   "playback_count": null,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2345327726,
+    "urn": "soundcloud:tracks:2345327726",
+    "artist": "Ominous The Spirit",
+    "contains_music": true,
+    "isrc": "USL4Q2558148",
+    "explicit": true,
+    "writer_composer": "Sage Robert Lanza"
+   },
+   "purchase_title": "website",
+   "purchase_url": "https://ominousthespirit.com",
+   "release_date": null,
+   "reposts_count": 0,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "Other music soundcloud Producer Audio recording indieartist newmusic unsignedartist listenlocal supportlocal connecticut rap rapper Edm chill lofi Instrumental Pop HipHop study beats beat free download InstrumentalHipHop Freestyle FreestyleHipHop ominous",
+   "title": "Sandpiper",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2345327726",
+   "urn": "soundcloud:tracks:2345327726",
+   "user_id": 1092439960,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/dffsNPHPSi0e_m.json",
+   "display_date": "2026-09-19T09:15:30Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2345327726/ebc57a63-39eb-4527-aaa4-8578ab7d2342/stream/hls",
+      "preset": "aac_160k",
+      "duration": 240046,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2345327726/9e10e2c8-0b82-4c7e-a29b-1a60a7392043/stream/hls",
+      "preset": "aac_96k",
+      "duration": 240046,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2345327726/5899e7bd-5f2f-4eda-b33a-f2322b5f0e81/stream/hls",
+      "preset": "abr_sq",
+      "duration": 240046,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2345327726/9deb9571-ba71-40b4-90ba-5a67a251aee6/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 240000,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2345327726/9deb9571-ba71-40b4-90ba-5a67a251aee6/stream/progressive",
+      "preset": "mp3_1_0",
+      "duration": 240000,
+      "snipped": false,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2345327726",
+   "station_permalink": "track-stations:2345327726",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6ImU4NWVkOGQ2LWEwNzYtNGFjMi1hYzJiLWNlNDg5NzExNmQ4OSIsImlhdCI6MTc4OTgxMTIyM30.MBlgpoOB7_B9rsWaIwtty5zjK6A5Rzuj0EUSm9Uoi1g",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-VrvorVLaG6YNBimu-ysj0tA-large.jpg",
+    "city": "Connecticut",
+    "comments_count": 0,
+    "country_code": "US",
+    "created_at": null,
+    "creator_subscriptions": [
+     {
+      "product": {
+       "id": "creator-pro-unlimited"
+      }
+     }
+    ],
+    "creator_subscription": {
+     "product": {
+      "id": "creator-pro-unlimited"
+     }
+    },
+    "description": "Also known as Robert Pride and Militant Monsta. \n\nThank you for the 1M streams!\n\nRatingsgamemusic.com said, \"...Ominous The Spirit soothes our ears with smooth deliveries and serenades us with intimate, vivid, authentic, and picturesque lyrics. Additionally, I love the production he relies on: It knocks just enough to make you nod your head but also boasts a noteworthy level of soreness.\"\n\nDailyMusicRoll.com Said, \"... Ominous The Spirit has always been fond of experimenting with music. He runs his trait in several musical genres like rap, hip-hop, EDM, house, electronic, rock, and jazz. From the age of 16 till now, the artist has so far devoted 10 years to music. Aside from music, painting and photography are the other passions he holds.\"",
+    "followers_count": 20371,
+    "followings_count": 973,
+    "first_name": "Ominous",
+    "full_name": "Ominous The Spirit",
+    "groups_count": 0,
+    "id": 1092439960,
+    "kind": "user",
+    "last_modified": "2026-05-16T09:32:04Z",
+    "last_name": "The Spirit",
+    "likes_count": 8668,
+    "playlist_likes_count": 320,
+    "permalink": "ominousthespirit",
+    "permalink_url": "https://soundcloud.com/ominousthespirit",
+    "playlist_count": 22,
+    "reposts_count": null,
+    "track_count": 316,
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1092439960",
+    "urn": "soundcloud:users:1092439960",
+    "username": "Ominous The Spirit",
+    "verified": true,
+    "visuals": {
+     "urn": "soundcloud:users:1092439960",
+     "enabled": true,
+     "visuals": [
+      {
+       "urn": "soundcloud:visuals:204885462",
+       "entry_time": 0,
+       "visual_url": "https://i1.sndcdn.com/visuals-001092439960-1db6wL-original.jpg",
+       "link": "https://ominousthespirit.com/"
+      }
+     ],
+     "tracking": null
+    },
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1092439960",
+    "station_permalink": "artist-stations:1092439960",
+    "date_of_birth": null
+   }
+  }
+ ],
+ "next_href": "https://api-v2.soundcloud.com/recent-tracks/lofi?offset=2026-09-19T08%3A55%3A23.000Z%2Crecent-content-tracks-by-tag%2Csoundcloud%3Atracks%3A2403506586&limit=3",
+ "query_urn": null
+}

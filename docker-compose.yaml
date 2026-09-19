@@ -1,0 +1,10 @@
+services:
+  soundcloud-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — SoundCloud does not rate-limit the JSON API, so leave this unset.
+      # - SOUNDCLOUD_PROXY=http://user:pass@host:port

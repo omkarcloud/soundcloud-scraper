@@ -1,0 +1,943 @@
+{
+ "artwork_url": "https://i1.sndcdn.com/artworks-cDI5qBZrQYMR60Ox-F2Ypbg-large.jpg",
+ "created_at": "2023-11-01T08:43:25Z",
+ "description": "Top 50 all music genres songs on SoundCloud in United States. Updates weekly.",
+ "duration": 8617898,
+ "embeddable_by": "all",
+ "genre": "All Genres",
+ "id": 1714689261,
+ "kind": "playlist",
+ "label_name": "",
+ "last_modified": "2026-09-17T14:02:42Z",
+ "license": "all-rights-reserved",
+ "likes_count": 2918,
+ "managed_by_feeds": false,
+ "permalink": "all-music-genres",
+ "permalink_url": "https://soundcloud.com/music-charts-us/sets/all-music-genres",
+ "public": true,
+ "purchase_title": null,
+ "purchase_url": null,
+ "release_date": null,
+ "reposts_count": 73,
+ "secret_token": null,
+ "sharing": "public",
+ "tag_list": "\"Top 50\" Charts \"United States\" \"All Music Genres\" US \"Top Tracks\"",
+ "title": "All music genres",
+ "uri": "https://api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A1714689261",
+ "user_id": 1319568996,
+ "set_type": "",
+ "is_album": false,
+ "published_at": "2023-11-01T08:43:25Z",
+ "display_date": "2023-11-01T08:43:25Z",
+ "user": {
+  "avatar_url": "https://i1.sndcdn.com/avatars-UJJPPK1OkBLl9LzJ-wSZKdg-large.jpg",
+  "first_name": "",
+  "followers_count": 10101,
+  "full_name": "",
+  "id": 1319568996,
+  "kind": "user",
+  "last_modified": "2024-11-04T00:00:05Z",
+  "last_name": "",
+  "permalink": "music-charts-us",
+  "permalink_url": "https://soundcloud.com/music-charts-us",
+  "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1319568996",
+  "urn": "soundcloud:users:1319568996",
+  "username": "Music Charts",
+  "verified": true,
+  "city": "",
+  "country_code": "US",
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": false,
+   "verified": true
+  },
+  "station_urn": "soundcloud:system-playlists:artist-stations:1319568996",
+  "station_permalink": "artist-stations:1319568996"
+ },
+ "tracks": [
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-T6YRuUJr0Q0f-0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 693,
+   "created_at": "2026-08-28T17:06:21Z",
+   "description": null,
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 30000,
+   "full_duration": 142421,
+   "embeddable_by": "all",
+   "genre": "Hip Hop/Rap",
+   "has_downloads_left": false,
+   "id": 2390382459,
+   "kind": "track",
+   "label_name": "Hitmaker Music Group",
+   "last_modified": "2026-08-28T17:34:40Z",
+   "license": "all-rights-reserved",
+   "likes_count": 42303,
+   "permalink": "is-dat-right",
+   "permalink_url": "https://soundcloud.com/nardo-wick/is-dat-right",
+   "playback_count": 811582,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2390382459,
+    "urn": "soundcloud:tracks:2390382459",
+    "artist": "Nardo Wick",
+    "album_title": "Is Dat Right?",
+    "contains_music": true,
+    "upc_or_ean": "4062851340687",
+    "isrc": "CH7812682283",
+    "explicit": true,
+    "p_line": "2026 Flawless Ent/Hitmaker Music Group/Hitmaker Distro",
+    "p_line_for_display": "℗ 2026 Flawless Ent/Hitmaker Music Group/Hitmaker Distro",
+    "c_line": "2026 Flawless Ent/Hitmaker Music Group/Hitmaker Distro",
+    "c_line_for_display": "© 2026 Flawless Ent/Hitmaker Music Group/Hitmaker Distro",
+    "writer_composer": "Horace Walls",
+    "release_title": "Is Dat Right?"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": "2026-08-28T00:00:00Z",
+   "reposts_count": 674,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Is Dat Right?",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2390382459",
+   "urn": "soundcloud:tracks:2390382459",
+   "user_id": 811818505,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/7KNIOtaQj908_m.json",
+   "display_date": "2026-08-28T00:00:00Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2390382459/eb590687-da86-479f-9212-0e03c1b25e2f/preview/hls",
+      "preset": "mp3_1_0",
+      "duration": 30000,
+      "snipped": true,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2390382459/eb590687-da86-479f-9212-0e03c1b25e2f/preview/progressive",
+      "preset": "mp3_1_0",
+      "duration": 30000,
+      "snipped": true,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2390382459",
+   "station_permalink": "track-stations:2390382459",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6ImE2ZDA4ZmNhLTZkNjktNGJmMS1iMTc3LTJkNGQ4NTA3YjVhNCIsImlhdCI6MTc4OTgxMTIxM30.3Q0yWdR-VFUR5ifdAjP5Hvj93vR9O1c2KM0Pazl0-dk",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-Kov6QaPn9xn7WlYd-7WyDQg-large.jpg",
+    "first_name": "Nardo",
+    "followers_count": 326881,
+    "full_name": "Nardo Wick",
+    "id": 811818505,
+    "kind": "user",
+    "last_modified": "2023-03-04T00:00:01Z",
+    "last_name": "Wick",
+    "permalink": "nardo-wick",
+    "permalink_url": "https://soundcloud.com/nardo-wick",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A811818505",
+    "urn": "soundcloud:users:811818505",
+    "username": "Nardo Wick",
+    "verified": true,
+    "city": "jacksonville",
+    "country_code": "US",
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:811818505",
+    "station_permalink": "artist-stations:811818505"
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-vH6OpJjPcelF-0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 528,
+   "created_at": "2026-05-28T04:56:52Z",
+   "description": null,
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 175810,
+   "full_duration": 175763,
+   "embeddable_by": "all",
+   "genre": "Country",
+   "has_downloads_left": false,
+   "id": 2328694826,
+   "kind": "track",
+   "label_name": "American Dogwood / EMPIRE",
+   "last_modified": "2026-08-18T23:36:29Z",
+   "license": "all-rights-reserved",
+   "likes_count": 37376,
+   "permalink": "cowgirl",
+   "permalink_url": "https://soundcloud.com/shaboozey/cowgirl",
+   "playback_count": 1312171,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2328694826,
+    "urn": "soundcloud:tracks:2328694826",
+    "artist": "Shaboozey",
+    "album_title": "Cowgirl",
+    "contains_music": true,
+    "upc_or_ean": "199316583236",
+    "isrc": "USUYG1807420",
+    "explicit": true,
+    "p_line": "2026 American Dogwood / EMPIRE",
+    "p_line_for_display": "℗ 2026 American Dogwood / EMPIRE",
+    "c_line": "2026 American Dogwood / EMPIRE",
+    "c_line_for_display": "© 2026 American Dogwood / EMPIRE",
+    "writer_composer": "Sean Cook, Nevin Sastry, Shaboozey",
+    "release_title": "Cowgirl"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": "2026-06-05T00:00:00Z",
+   "reposts_count": 542,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Cowgirl",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2328694826",
+   "urn": "soundcloud:tracks:2328694826",
+   "user_id": 29475885,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/wIfFcFULtOMH_m.json",
+   "display_date": "2026-06-05T00:00:00Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/403e3283-943f-4d9b-87b5-4bc3370e0ad3/stream/cbc-encrypted-hls",
+      "preset": "aac_160k",
+      "duration": 175810,
+      "snipped": false,
+      "format": {
+       "protocol": "cbc-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/403e3283-943f-4d9b-87b5-4bc3370e0ad3/stream/ctr-encrypted-hls",
+      "preset": "aac_160k",
+      "duration": 175810,
+      "snipped": false,
+      "format": {
+       "protocol": "ctr-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/7af09f72-45e8-48c4-ae8e-1ad5eb11efd3/stream/cbc-encrypted-hls",
+      "preset": "aac_96k",
+      "duration": 175810,
+      "snipped": false,
+      "format": {
+       "protocol": "cbc-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/7af09f72-45e8-48c4-ae8e-1ad5eb11efd3/stream/ctr-encrypted-hls",
+      "preset": "aac_96k",
+      "duration": 175810,
+      "snipped": false,
+      "format": {
+       "protocol": "ctr-encrypted-hls",
+       "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+      },
+      "quality": "lq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/a454567d-c517-4b23-a846-481e75bc3b59/stream/cbc-encrypted-hls",
+      "preset": "abr_sq",
+      "duration": 175810,
+      "snipped": false,
+      "format": {
+       "protocol": "cbc-encrypted-hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/a454567d-c517-4b23-a846-481e75bc3b59/stream/ctr-encrypted-hls",
+      "preset": "abr_sq",
+      "duration": 175810,
+      "snipped": false,
+      "format": {
+       "protocol": "ctr-encrypted-hls",
+       "mime_type": "audio/mpegurl"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": false
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2328694826/3b97d8ea-5177-450d-8e2c-dc0a4c965c5a/stream/hls",
+      "preset": "mp3_1_0",
+      "duration": 175763,
+      "snipped": false,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2328694826",
+   "station_permalink": "track-stations:2328694826",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6ImY5OTdhYmFjLTJjMjMtNDliNi1iYTk3LTc4Zjc2NmRmNTk5MyIsImlhdCI6MTc4OTgxMTIxM30.F60Uo0e-GTWAkGI4xj_Tr1k48P0QXNMTmdndfTAU3j4",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-V8gWFviajg3erNZ1-Fu8SSw-large.jpg",
+    "first_name": "",
+    "followers_count": 61433,
+    "full_name": "",
+    "id": 29475885,
+    "kind": "user",
+    "last_modified": "2026-07-30T20:16:27Z",
+    "last_name": "",
+    "permalink": "shaboozey",
+    "permalink_url": "https://soundcloud.com/shaboozey",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A29475885",
+    "urn": "soundcloud:users:29475885",
+    "username": "Shaboozey",
+    "verified": true,
+    "city": "Virginia",
+    "country_code": "US",
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:29475885",
+    "station_permalink": "artist-stations:29475885"
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-nBP31BL67DX5-0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 255,
+   "created_at": "2026-07-02T02:25:19Z",
+   "description": null,
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 30000,
+   "full_duration": 150950,
+   "embeddable_by": "all",
+   "genre": "Pop",
+   "has_downloads_left": false,
+   "id": 2351528147,
+   "kind": "track",
+   "label_name": "Hitmaker Music Group / 10K Projects",
+   "last_modified": "2026-07-15T20:52:55Z",
+   "license": "all-rights-reserved",
+   "likes_count": 15831,
+   "permalink": "darkside",
+   "permalink_url": "https://soundcloud.com/smithsmithmusic/darkside",
+   "playback_count": 313950,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2351528147,
+    "urn": "soundcloud:tracks:2351528147",
+    "artist": "SMITH",
+    "album_title": "DARK SIDE",
+    "contains_music": true,
+    "upc_or_ean": "075679568380",
+    "isrc": "QZJ842607884",
+    "explicit": false,
+    "p_line": "℗ 2026 Hitmaker Music Group/10k Projects",
+    "p_line_for_display": "℗ 2026 Hitmaker Music Group/10k Projects",
+    "c_line": "© 2026 Hitmaker Music Group/10k Projects",
+    "c_line_for_display": "© 2026 Hitmaker Music Group/10k Projects",
+    "writer_composer": "SMITH, Jonathan McGowan",
+    "release_title": "DARK SIDE"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": "2026-07-17T00:00:00Z",
+   "reposts_count": 273,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "DARK SIDE",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2351528147",
+   "urn": "soundcloud:tracks:2351528147",
+   "user_id": 812066848,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/bVmjIPodOEvk_m.json",
+   "display_date": "2026-07-17T00:00:00Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2351528147/63dfdfd3-245b-4546-9d41-b20494cb12d5/preview/hls",
+      "preset": "mp3_1_0",
+      "duration": 30000,
+      "snipped": true,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2351528147/63dfdfd3-245b-4546-9d41-b20494cb12d5/preview/progressive",
+      "preset": "mp3_1_0",
+      "duration": 30000,
+      "snipped": true,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2351528147",
+   "station_permalink": "track-stations:2351528147",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjA1MGRlNTNjLWIxZTAtNDJiNS04ZDlkLTgyNmZjZDdlNTk1YSIsImlhdCI6MTc4OTgxMTIxM30.dCSzCzrH1cP30FFNQzpv1ccewJeJQkXZx8n-VFv3FZk",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-4Q0UTAeFqMqzY9qp-tDc8Xg-large.jpg",
+    "first_name": "SMITH",
+    "followers_count": 619,
+    "full_name": "SMITH",
+    "id": 812066848,
+    "kind": "user",
+    "last_modified": "2023-08-21T03:01:09Z",
+    "last_name": "",
+    "permalink": "smithsmithmusic",
+    "permalink_url": "https://soundcloud.com/smithsmithmusic",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A812066848",
+    "urn": "soundcloud:users:812066848",
+    "username": "SMITH",
+    "verified": false,
+    "city": null,
+    "country_code": "US",
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:812066848",
+    "station_permalink": "artist-stations:812066848"
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-27hLf2bIqesN-0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 146,
+   "created_at": "2026-08-27T02:52:29Z",
+   "description": null,
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 132204,
+   "full_duration": 132204,
+   "embeddable_by": "all",
+   "genre": "Rap",
+   "has_downloads_left": false,
+   "id": 2389204014,
+   "kind": "track",
+   "label_name": "Alamo",
+   "last_modified": "2026-09-15T20:45:11Z",
+   "license": "all-rights-reserved",
+   "likes_count": 17233,
+   "permalink": "dope-girl",
+   "permalink_url": "https://soundcloud.com/rodwave/dope-girl",
+   "playback_count": 628684,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2389204014,
+    "urn": "soundcloud:tracks:2389204014",
+    "artist": "Rod Wave",
+    "album_title": "Don't Look Down",
+    "contains_music": true,
+    "upc_or_ean": "196874495681",
+    "isrc": "USQX92603560",
+    "explicit": true,
+    "p_line": "(P) 2026 Alamo Records, LLC/Sony Music Entertainment",
+    "p_line_for_display": "℗ 2026 Alamo Records, LLC/Sony Music Entertainment",
+    "writer_composer": "Rodarius Green, Aaron Owuor Tago",
+    "release_title": "Dope Girl"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": "2026-08-28T00:00:00Z",
+   "reposts_count": 44,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Dope Girl",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2389204014",
+   "urn": "soundcloud:tracks:2389204014",
+   "user_id": 29550459,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/LlytBP7gxkLu_m.json",
+   "display_date": "2026-08-28T04:00:00Z",
+   "media": {
+    "transcodings": []
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2389204014",
+   "station_permalink": "track-stations:2389204014",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjVmYTZiZWViLTM1ODgtNDg3OC04MjI5LWM5Y2JjODU2ZmIyNSIsImlhdCI6MTc4OTgxMTIxM30.BKRqMnkEXr09kJu2A_xntiLbmY-Z24Xmbn72pswHysE",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "BLOCK",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-NOzbXZYR5Z8Dc5jX-Zfmhlg-large.jpg",
+    "first_name": "Rod",
+    "followers_count": 1481206,
+    "full_name": "Rod Wave",
+    "id": 29550459,
+    "kind": "user",
+    "last_modified": "2023-08-17T20:40:51Z",
+    "last_name": "Wave",
+    "permalink": "rodwave",
+    "permalink_url": "https://soundcloud.com/rodwave",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A29550459",
+    "urn": "soundcloud:users:29550459",
+    "username": "Rod Wave",
+    "verified": true,
+    "city": "St. Petersburg",
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": true,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:29550459",
+    "station_permalink": "artist-stations:29550459"
+   }
+  },
+  {
+   "artwork_url": "https://i1.sndcdn.com/artworks-PhEg4XoxL1i0-0-large.jpg",
+   "caption": null,
+   "commentable": true,
+   "comment_count": 364,
+   "created_at": "2026-07-13T23:32:22Z",
+   "description": null,
+   "downloadable": false,
+   "download_count": 0,
+   "duration": 30000,
+   "full_duration": 157020,
+   "embeddable_by": "all",
+   "genre": "Hip Hop",
+   "has_downloads_left": false,
+   "id": 2360196407,
+   "kind": "track",
+   "label_name": "Quality Control Music/Motown Records",
+   "last_modified": "2026-07-31T00:55:03Z",
+   "license": "all-rights-reserved",
+   "likes_count": 60903,
+   "permalink": "dead-fresh",
+   "permalink_url": "https://soundcloud.com/lil-baby-4pf/dead-fresh",
+   "playback_count": 2267631,
+   "public": true,
+   "publisher_metadata": {
+    "id": 2360196407,
+    "urn": "soundcloud:tracks:2360196407",
+    "artist": "Lil Baby",
+    "album_title": "Dead Fresh",
+    "contains_music": true,
+    "upc_or_ean": "00881061219149",
+    "isrc": "USUG12600008",
+    "explicit": true,
+    "p_line": "℗ 2026 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+    "p_line_for_display": "℗ 2026 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+    "c_line": "© 2026 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+    "c_line_for_display": "© 2026 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+    "release_title": "Dead Fresh"
+   },
+   "purchase_title": null,
+   "purchase_url": null,
+   "release_date": "2026-07-17T00:00:00Z",
+   "reposts_count": 313,
+   "secret_token": null,
+   "sharing": "public",
+   "state": "finished",
+   "streamable": true,
+   "tag_list": "",
+   "title": "Dead Fresh",
+   "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A2360196407",
+   "urn": "soundcloud:tracks:2360196407",
+   "user_id": 300932089,
+   "visuals": null,
+   "waveform_url": "https://wave.sndcdn.com/i2LGVDoiIu0N_m.json",
+   "display_date": "2026-07-17T00:00:00Z",
+   "media": {
+    "transcodings": [
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2360196407/a5ccd537-ba36-4163-93c6-f70cd0c3492a/preview/hls",
+      "preset": "mp3_1_0",
+      "duration": 30000,
+      "snipped": true,
+      "format": {
+       "protocol": "hls",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     },
+     {
+      "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:2360196407/a5ccd537-ba36-4163-93c6-f70cd0c3492a/preview/progressive",
+      "preset": "mp3_1_0",
+      "duration": 30000,
+      "snipped": true,
+      "format": {
+       "protocol": "progressive",
+       "mime_type": "audio/mpeg"
+      },
+      "quality": "sq",
+      "is_legacy_transcoding": true
+     }
+    ]
+   },
+   "station_urn": "soundcloud:system-playlists:track-stations:2360196407",
+   "station_permalink": "track-stations:2360196407",
+   "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjZhY2NmMWI2LTM3NzAtNGRmZi1iYTg2LWJkOTA3MzcxNjJlMSIsImlhdCI6MTc4OTgxMTIxM30.NGPwNReP3vCCVv_jSXC0OUjpy4tzW34007DNEECZtMM",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP",
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-pbwP3VcuzglK3XYs-I98lbQ-large.jpg",
+    "first_name": "Lil",
+    "followers_count": 1986993,
+    "full_name": "Lil Baby",
+    "id": 300932089,
+    "kind": "user",
+    "last_modified": "2026-02-04T00:00:03Z",
+    "last_name": "Baby",
+    "permalink": "lil-baby-4pf",
+    "permalink_url": "https://soundcloud.com/lil-baby-4pf",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A300932089",
+    "urn": "soundcloud:users:300932089",
+    "username": "Lil Baby",
+    "verified": true,
+    "city": null,
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": true
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:300932089",
+    "station_permalink": "artist-stations:300932089"
+   }
+  },
+  {
+   "id": 2345529572,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "BLOCK"
+  },
+  {
+   "id": 2336252138,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2376785270,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2344877201,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2383385982,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2377220309,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2376734627,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2335853951,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2372975567,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2332262312,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2319913409,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398910412,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2383421214,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2398538070,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2347262399,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2399490219,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2394676071,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2387599986,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2372174183,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2372975051,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2389899429,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2372399345,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2222982950,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398921194,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2347270739,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2394128628,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2391436497,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2381539440,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398279290,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2384014521,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "BLOCK"
+  },
+  {
+   "id": 2398533681,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2352354035,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2384598960,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2329450628,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2324436056,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2394713826,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2376839033,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2320209185,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2376837359,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2386861863,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2342295026,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2345470529,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2371268429,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398487406,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2390886630,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  }
+ ],
+ "track_count": 50
+}

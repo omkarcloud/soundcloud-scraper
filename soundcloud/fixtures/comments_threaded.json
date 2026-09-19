@@ -1,0 +1,196 @@
+{
+ "collection": [
+  {
+   "kind": "comment",
+   "id": 2326962654,
+   "body": "Đâyy rồiiiii",
+   "created_at": "2025-04-12T17:38:03Z",
+   "timestamp": 139283,
+   "track_id": 1516134547,
+   "user_id": 1502755145,
+   "self": {
+    "urn": "soundcloud:comments:2326962654"
+   },
+   "user": {
+    "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+    "first_name": "Khiêm",
+    "followers_count": 0,
+    "full_name": "Khiêm Lê",
+    "id": 1502755145,
+    "kind": "user",
+    "last_modified": "2025-01-26T18:39:24Z",
+    "last_name": "Lê",
+    "permalink": "khiem-le-269590516",
+    "permalink_url": "https://soundcloud.com/khiem-le-269590516",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1502755145",
+    "urn": "soundcloud:users:1502755145",
+    "username": "Khiêm Lê",
+    "verified": false,
+    "city": null,
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1502755145",
+    "station_permalink": "artist-stations:1502755145"
+   }
+  },
+  {
+   "kind": "comment",
+   "id": 2161699527,
+   "body": "nhạc đi tour đúng bàiii😘",
+   "created_at": "2024-06-27T08:36:46Z",
+   "timestamp": 915,
+   "track_id": 1516134547,
+   "user_id": 974790259,
+   "self": {
+    "urn": "soundcloud:comments:2161699527"
+   },
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-FtrXoyA53yzfy1ju-3OTjTA-large.jpg",
+    "first_name": "Đạt",
+    "followers_count": 0,
+    "full_name": "Đạt Dương",
+    "id": 974790259,
+    "kind": "user",
+    "last_modified": "2021-06-02T12:39:08Z",
+    "last_name": "Dương",
+    "permalink": "d-ng-t-275223372",
+    "permalink_url": "https://soundcloud.com/d-ng-t-275223372",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A974790259",
+    "urn": "soundcloud:users:974790259",
+    "username": "Dương Đạt",
+    "verified": false,
+    "city": null,
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:974790259",
+    "station_permalink": "artist-stations:974790259"
+   }
+  },
+  {
+   "kind": "comment",
+   "id": 2161699515,
+   "body": "nhạc đi tour đúng bàiii😘",
+   "created_at": "2024-06-27T08:36:44Z",
+   "timestamp": 99513,
+   "track_id": 1516134547,
+   "user_id": 974790259,
+   "self": {
+    "urn": "soundcloud:comments:2161699515"
+   },
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-FtrXoyA53yzfy1ju-3OTjTA-large.jpg",
+    "first_name": "Đạt",
+    "followers_count": 0,
+    "full_name": "Đạt Dương",
+    "id": 974790259,
+    "kind": "user",
+    "last_modified": "2021-06-02T12:39:08Z",
+    "last_name": "Dương",
+    "permalink": "d-ng-t-275223372",
+    "permalink_url": "https://soundcloud.com/d-ng-t-275223372",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A974790259",
+    "urn": "soundcloud:users:974790259",
+    "username": "Dương Đạt",
+    "verified": false,
+    "city": null,
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:974790259",
+    "station_permalink": "artist-stations:974790259"
+   }
+  },
+  {
+   "kind": "comment",
+   "id": 2123435000,
+   "body": "🙌",
+   "created_at": "2024-04-23T14:34:17Z",
+   "timestamp": 408,
+   "track_id": 1516134547,
+   "user_id": 1372884468,
+   "self": {
+    "urn": "soundcloud:comments:2123435000"
+   },
+   "user": {
+    "avatar_url": "https://a1.sndcdn.com/images/default_avatar_large.png",
+    "first_name": "Lily",
+    "followers_count": 1,
+    "full_name": "Lily Bush",
+    "id": 1372884468,
+    "kind": "user",
+    "last_modified": "2025-07-09T14:18:24Z",
+    "last_name": "Bush",
+    "permalink": "lily-bush-259048523",
+    "permalink_url": "https://soundcloud.com/lily-bush-259048523",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1372884468",
+    "urn": "soundcloud:users:1372884468",
+    "username": "Lily Bush",
+    "verified": false,
+    "city": "Islamabad",
+    "country_code": "PK",
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1372884468",
+    "station_permalink": "artist-stations:1372884468"
+   }
+  },
+  {
+   "kind": "comment",
+   "id": 2100141363,
+   "body": "đãaa",
+   "created_at": "2024-03-15T13:48:15Z",
+   "timestamp": 65957,
+   "track_id": 1516134547,
+   "user_id": 1369748499,
+   "self": {
+    "urn": "soundcloud:comments:2100141363"
+   },
+   "user": {
+    "avatar_url": "https://i1.sndcdn.com/avatars-hcRgl3LKSn7qowWJ-DjAwGg-large.jpg",
+    "first_name": "anh",
+    "followers_count": 0,
+    "full_name": "anh thu",
+    "id": 1369748499,
+    "kind": "user",
+    "last_modified": "2024-03-15T13:44:48Z",
+    "last_name": "thu",
+    "permalink": "anh-thu-173444069",
+    "permalink_url": "https://soundcloud.com/anh-thu-173444069",
+    "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1369748499",
+    "urn": "soundcloud:users:1369748499",
+    "username": "annie",
+    "verified": false,
+    "city": "",
+    "country_code": null,
+    "badges": {
+     "pro": false,
+     "creator_mid_tier": false,
+     "pro_unlimited": false,
+     "verified": false
+    },
+    "station_urn": "soundcloud:system-playlists:artist-stations:1369748499",
+    "station_permalink": "artist-stations:1369748499"
+   }
+  }
+ ],
+ "next_href": "https://api-v2.soundcloud.com/tracks/1516134547/comments?client_id=Pb72ranhoyt6gw7hM7TkzUItXlMWSNSo&offset=5&threaded=1&limit=5",
+ "query_urn": null
+}

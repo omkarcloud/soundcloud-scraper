@@ -1,0 +1,141 @@
+{
+ "artwork_url": "https://i1.sndcdn.com/artworks-lhekr8YaRJw5JeJz-FBRKhg-large.jpg",
+ "caption": null,
+ "commentable": true,
+ "comment_count": 112,
+ "created_at": "2023-05-17T14:41:20Z",
+ "description": "",
+ "downloadable": false,
+ "download_count": 0,
+ "duration": 378497,
+ "full_duration": 378488,
+ "embeddable_by": "all",
+ "genre": "",
+ "has_downloads_left": false,
+ "id": 1516134547,
+ "kind": "track",
+ "label_name": null,
+ "last_modified": "2023-05-17T14:42:57Z",
+ "license": "all-rights-reserved",
+ "likes_count": 3459,
+ "permalink": "wolves-selena-gomez-ft-mashmello-japandee",
+ "permalink_url": "https://soundcloud.com/japandee003/wolves-selena-gomez-ft-mashmello-japandee",
+ "playback_count": 254812,
+ "public": true,
+ "publisher_metadata": {
+  "id": 1516134547,
+  "urn": "soundcloud:tracks:1516134547",
+  "contains_music": true
+ },
+ "purchase_title": null,
+ "purchase_url": null,
+ "release_date": null,
+ "reposts_count": 84,
+ "secret_token": null,
+ "sharing": "public",
+ "state": "finished",
+ "streamable": true,
+ "tag_list": "",
+ "title": "WOLVES ( SELENA GOMEZ ft MASHMELLO) - JAPANDEE",
+ "uri": "https://api.soundcloud.com/tracks/soundcloud%3Atracks%3A1516134547",
+ "urn": "soundcloud:tracks:1516134547",
+ "user_id": 1218129700,
+ "visuals": null,
+ "waveform_url": "https://wave.sndcdn.com/nSZGf75LZUV8_m.json",
+ "display_date": "2023-05-17T14:41:20Z",
+ "media": {
+  "transcodings": [
+   {
+    "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1516134547/96e00d35-0212-4081-b327-bac176d19325/stream/hls",
+    "preset": "aac_160k",
+    "duration": 378497,
+    "snipped": false,
+    "format": {
+     "protocol": "hls",
+     "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+    },
+    "quality": "sq",
+    "is_legacy_transcoding": false
+   },
+   {
+    "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1516134547/8685e6cc-9dee-4987-bf21-9c96d61fd43f/stream/hls",
+    "preset": "aac_96k",
+    "duration": 378497,
+    "snipped": false,
+    "format": {
+     "protocol": "hls",
+     "mime_type": "audio/mp4; codecs=\"mp4a.40.2\""
+    },
+    "quality": "lq",
+    "is_legacy_transcoding": false
+   },
+   {
+    "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1516134547/7319bbf8-706a-40c5-a42a-0bb31cd064c3/stream/hls",
+    "preset": "abr_sq",
+    "duration": 378497,
+    "snipped": false,
+    "format": {
+     "protocol": "hls",
+     "mime_type": "audio/mpegurl"
+    },
+    "quality": "sq",
+    "is_legacy_transcoding": false
+   },
+   {
+    "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1516134547/06770d1f-e381-4301-ab91-c9b58f184192/stream/hls",
+    "preset": "mp3_1_0",
+    "duration": 378488,
+    "snipped": false,
+    "format": {
+     "protocol": "hls",
+     "mime_type": "audio/mpeg"
+    },
+    "quality": "sq",
+    "is_legacy_transcoding": true
+   },
+   {
+    "url": "https://api-v2.soundcloud.com/media/soundcloud:tracks:1516134547/06770d1f-e381-4301-ab91-c9b58f184192/stream/progressive",
+    "preset": "mp3_1_0",
+    "duration": 378488,
+    "snipped": false,
+    "format": {
+     "protocol": "progressive",
+     "mime_type": "audio/mpeg"
+    },
+    "quality": "sq",
+    "is_legacy_transcoding": true
+   }
+  ]
+ },
+ "station_urn": "soundcloud:system-playlists:track-stations:1516134547",
+ "station_permalink": "track-stations:1516134547",
+ "track_authorization": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJJTiIsInN1YiI6IiIsInJpZCI6IjI3NWY0ZWJjLWRiMDItNDVkNi04NzMxLWE0OTU0ZGI3YmExMyIsImlhdCI6MTc4OTgxMTIxMX0.ag6_0xqGO4oaogmXhMHrP2ZG0kFN6YDCiRIwX10wFG4",
+ "monetization_model": "NOT_APPLICABLE",
+ "policy": "ALLOW",
+ "user": {
+  "avatar_url": "https://i1.sndcdn.com/avatars-TCu7tBz5lRQiVnlp-y3DEyA-large.jpg",
+  "first_name": "",
+  "followers_count": 23068,
+  "full_name": "",
+  "id": 1218129700,
+  "kind": "user",
+  "last_modified": "2024-03-29T10:45:36Z",
+  "last_name": "",
+  "permalink": "japandee003",
+  "permalink_url": "https://soundcloud.com/japandee003",
+  "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A1218129700",
+  "urn": "soundcloud:users:1218129700",
+  "username": "Japan.dee",
+  "verified": false,
+  "city": "",
+  "country_code": null,
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": false,
+   "verified": false
+  },
+  "station_urn": "soundcloud:system-playlists:artist-stations:1218129700",
+  "station_permalink": "artist-stations:1218129700"
+ }
+}

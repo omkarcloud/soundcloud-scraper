@@ -1,0 +1,343 @@
+{
+ "urn": "soundcloud:system-playlists:trending-by-genre:trap",
+ "query_urn": null,
+ "permalink": "trending-by-genre:trap",
+ "permalink_url": "https://soundcloud.com/discover/sets/trending-by-genre:trap",
+ "title": "Trap",
+ "description": "Trending tracks in Trap",
+ "short_title": "Trap",
+ "short_description": "Trending",
+ "tracking_feature_name": "trending-by-genre",
+ "playlist_type": "PLAYLIST",
+ "last_updated": null,
+ "artwork_url": null,
+ "calculated_artwork_url": "https://i1.sndcdn.com/artworks-T6YRuUJr0Q0f-0-large.jpg",
+ "likes_count": 1102,
+ "seed": null,
+ "tracks": [
+  {
+   "id": 2390382459,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2398921194,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2355869522,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398910412,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398228494,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398287522,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398954902,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398215999,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398287492,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398458672,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2396901759,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398214979,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2399923236,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2397667296,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2396901408,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2394721611,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2397593520,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2397071148,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398277544,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398664535,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2397429753,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2396909202,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2362958585,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2394728697,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2398278756,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2389879062,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2389249641,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2248434974,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2387969397,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398770768,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2397128025,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2397971286,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2398208991,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2398676235,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398127661,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2397840264,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2397788664,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2389238253,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2396805396,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2396118297,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2397788298,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398880076,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2233909859,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2391818406,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398533558,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2396255850,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398043235,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2256922769,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2398032030,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  }
+ ],
+ "is_public": true,
+ "made_for": null,
+ "user": {
+  "avatar_url": "https://i1.sndcdn.com/avatars-69H9MhsAT5XDDltu-1X6yHw-large.jpg",
+  "first_name": "",
+  "followers_count": 2379307,
+  "full_name": "",
+  "id": 193,
+  "kind": "user",
+  "last_modified": "2026-04-14T22:08:08Z",
+  "last_name": "",
+  "permalink": "soundcloud",
+  "permalink_url": "https://soundcloud.com/soundcloud",
+  "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A193",
+  "urn": "soundcloud:users:193",
+  "username": "SoundCloud",
+  "verified": true,
+  "city": "NY / LA",
+  "country_code": "US",
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": true,
+   "verified": true
+  },
+  "station_urn": "soundcloud:system-playlists:artist-stations:193",
+  "station_permalink": "artist-stations:193"
+ },
+ "kind": "system-playlist",
+ "id": "soundcloud:system-playlists:trending-by-genre:trap"
+}

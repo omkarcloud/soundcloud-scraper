@@ -1,0 +1,61 @@
+{
+ "avatar_url": "https://i1.sndcdn.com/avatars-hp6B2Tu0YY0yC5as-9cT0AA-large.jpg",
+ "city": "",
+ "comments_count": 0,
+ "country_code": null,
+ "created_at": null,
+ "creator_subscriptions": [
+  {
+   "product": {
+    "id": "free"
+   }
+  }
+ ],
+ "creator_subscription": {
+  "product": {
+   "id": "free"
+  }
+ },
+ "description": "Ed Sheeran x",
+ "followers_count": 2973266,
+ "followings_count": 0,
+ "first_name": "Ed",
+ "full_name": "Ed Sheeran",
+ "groups_count": 0,
+ "id": 3685019,
+ "kind": "user",
+ "last_modified": "2026-07-07T15:24:49Z",
+ "last_name": "Sheeran",
+ "likes_count": 0,
+ "playlist_likes_count": 0,
+ "permalink": "edsheeran",
+ "permalink_url": "https://soundcloud.com/edsheeran",
+ "playlist_count": 70,
+ "reposts_count": null,
+ "track_count": 466,
+ "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A3685019",
+ "urn": "soundcloud:users:3685019",
+ "username": "Ed Sheeran",
+ "verified": true,
+ "visuals": {
+  "urn": "soundcloud:users:3685019",
+  "enabled": true,
+  "visuals": [
+   {
+    "urn": "soundcloud:visuals:272416074",
+    "entry_time": 0,
+    "visual_url": "https://i1.sndcdn.com/visuals-000003685019-SXrY6x-original.jpg"
+   }
+  ],
+  "tracking": null
+ },
+ "badges": {
+  "pro": false,
+  "creator_mid_tier": false,
+  "pro_unlimited": false,
+  "verified": true
+ },
+ "station_urn": "soundcloud:system-playlists:artist-stations:3685019",
+ "station_permalink": "artist-stations:3685019",
+ "date_of_birth": null
+}

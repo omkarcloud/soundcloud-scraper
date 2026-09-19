@@ -1,0 +1,286 @@
+{
+ "urn": "soundcloud:system-playlists:artist-stations:3685019",
+ "query_urn": null,
+ "permalink": "artist-stations:3685019",
+ "permalink_url": "https://soundcloud.com/discover/sets/artist-stations:3685019",
+ "title": "Ed Sheeran",
+ "description": "Based on Ed Sheeran",
+ "short_title": "Ed Sheeran",
+ "short_description": "Artist station",
+ "tracking_feature_name": "artist-stations",
+ "playlist_type": "ARTIST_STATION",
+ "last_updated": null,
+ "artwork_url": "https://al.sndcdn.com/labs-adf62b66-0-t500x500.jpg?q=YXJ0d29ya190eXBlOiBTVEFUSU9OCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjM2ODUwMTkiCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjc1MTAwNjYiCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjI0MjU0MjMzIgp1cm5zOiAic291bmRjbG91ZDp1c2VyczozMTA3MzI1MTQiCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjIwODAxNDQ3MyIKdXJuczogInNvdW5kY2xvdWQ6dXNlcnM6MjU0ODY5OTg3Igo%3D",
+ "calculated_artwork_url": "https://al.sndcdn.com/labs-adf62b66-0-t500x500.jpg?q=YXJ0d29ya190eXBlOiBTVEFUSU9OCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjM2ODUwMTkiCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjc1MTAwNjYiCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjI0MjU0MjMzIgp1cm5zOiAic291bmRjbG91ZDp1c2VyczozMTA3MzI1MTQiCnVybnM6ICJzb3VuZGNsb3VkOnVzZXJzOjIwODAxNDQ3MyIKdXJuczogInNvdW5kY2xvdWQ6dXNlcnM6MjU0ODY5OTg3Igo%3D",
+ "likes_count": 10561,
+ "seed": {
+  "urn": "soundcloud:users:3685019",
+  "permalink": "/edsheeran"
+ },
+ "tracks": [
+  {
+   "id": 26989249,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 45108319,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 332103288,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 446251836,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 1104907468,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 1331225965,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 1257828847,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 649038365,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 461700600,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 256010484,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 213950659,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 255976972,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 1091657155,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 310108176,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 526155132,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 310108189,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 527855925,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 1471140619,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 198398916,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 180242357,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 301161119,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 2151416577,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 1533452824,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 213950655,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 336185702,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 278648777,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 649038500,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 54700018,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 310108191,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 1709664822,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 326465394,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 888447505,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 2086703025,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 709575598,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 45109408,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 1507627858,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 73299095,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  },
+  {
+   "id": 255976991,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "SNIP"
+  },
+  {
+   "id": 26460191,
+   "kind": "track",
+   "monetization_model": "NOT_APPLICABLE",
+   "policy": "ALLOW"
+  }
+ ],
+ "is_public": true,
+ "made_for": null,
+ "user": {
+  "avatar_url": "https://i1.sndcdn.com/avatars-69H9MhsAT5XDDltu-1X6yHw-large.jpg",
+  "first_name": "",
+  "followers_count": 2379307,
+  "full_name": "",
+  "id": 193,
+  "kind": "user",
+  "last_modified": "2026-04-14T22:08:08Z",
+  "last_name": "",
+  "permalink": "soundcloud",
+  "permalink_url": "https://soundcloud.com/soundcloud",
+  "uri": "https://api.soundcloud.com/users/soundcloud%3Ausers%3A193",
+  "urn": "soundcloud:users:193",
+  "username": "SoundCloud",
+  "verified": true,
+  "city": "NY / LA",
+  "country_code": "US",
+  "badges": {
+   "pro": false,
+   "creator_mid_tier": false,
+   "pro_unlimited": true,
+   "verified": true
+  },
+  "station_urn": "soundcloud:system-playlists:artist-stations:193",
+  "station_permalink": "artist-stations:193"
+ },
+ "kind": "system-playlist",
+ "id": "soundcloud:system-playlists:artist-stations:3685019"
+}
