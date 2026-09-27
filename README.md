@@ -164,7 +164,7 @@ You're a developer — we know how hard completing a project can be. So we offer
 
 ## ⭐ Love It? [Star It ⭐!](https://github.com/omkarcloud/soundcloud-scraper)
 
-Star the repo ⭐ and become a star hero!
+Star the repo ⭐ and become my star hero!
 
 It's just 1 click, but it means the world to me.
 
